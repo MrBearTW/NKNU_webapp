@@ -354,3 +354,5 @@ synchronized  針對物件
 
 遇到 String + Int 時   
 會將 Int轉成String 再相加   
+
+2維陣列除了每個一為陣列外，本身也是一個陣列  
