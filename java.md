@@ -181,8 +181,6 @@ private 同一個class
 寫Java語言不控制記憶體，JVM會自動處理
 
 
-
-
 # 課本CH.6 pptCH.8 繼承、多型
 extend
 
@@ -274,7 +272,7 @@ javac -d . Hello.java   compilejava檔內有套件路徑的要加
 java org.tcfst.Hello    執行套件內的檔案要寫路徑
 
 +public     不限制
-#protected  繼承關係
+\#protected  繼承關係
 ~(default)  同一個package
 -private    同一個class
 
