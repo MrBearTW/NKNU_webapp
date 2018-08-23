@@ -10,10 +10,11 @@
 https://www.taiwanjobs.gov.tw/Internet/index/CourseQuery_detail.aspx?History=History&oid=116059
 
 
-8/16 填資料1hr Java  
+8/16 填資料1hr，發第一個月課表 Java  
 8/17
 8/18 計算機概論  
 8/19 週日放假
 8/20 自我介紹製作教學1hr HTML-表格，至中 
 8/21 Java-for，while，break
 8/22 Java-switch，String
+8/23 Java-發所有課表，Java老師不知道Java課本是哪一本，
