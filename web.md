@@ -98,3 +98,49 @@ valign垂直對齊
 
 ### sp5.html
 使用iframe連結外部網站  
+
+# 201/08/27  
+## CSS
+可以寫在內部也可以寫在外部  
+## Selector
+ID名稱(有唯一性)  
+class類別  
+element標籤  
+combination複合  
+## div
+頁面最大的框就是body  
+  
+padding內距  
+margin外距  
+  
+預設是靠左上角的位子  
+  
+top  
+bottom  
+left  
+right  
+  
+Ex. 往內往下padding-top  
+
+第一個框用`margin-top:56px;`可能會有問題  
+要到外面一個的框往內推`padding-top:56px;`  
+  
+## reset.css
+有一些可以直接歸零  
+  
+## wrapper
+margin= 上 右 下 左   
+margin= 上下 左右  
+margin:0 auto;  
+## 註解
+HTML的註解<!--   -->
+
+
+## LOGO
+`background-size:contain;`
+
+## float
+
+WYSIWYG HTML editor
+Amaya?
+KompoZer?

@@ -1,0 +1,28 @@
+@charset "utf-8";
+/* CSS Document */
+#wrapper{width:800px;
+margin:0 auto;}
+
+#header{
+height:300px;
+padding-top:20px;
+}
+#logo{
+	background-color:#6FC;
+	background-image:url(../images/if_Star_Trek_367642.png);
+	background-size:contain;
+	
+	height:96px;
+	width:96px;
+	margin-left:20px;
+	float:left;
+	}
+#nav{
+	background-color:#6CF;
+	margin-left:65%;
+	}
+	
+	
+
+#footer{
+height:300px;}

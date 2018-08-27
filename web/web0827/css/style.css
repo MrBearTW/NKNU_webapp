@@ -1,0 +1,12 @@
+@charset "utf-8";
+/* CSS Document */
+
+a{
+color:#666;
+text-decoration:none;
+
+}
+a:hover{
+	background-color:#3CC;
+	color:#003
+	}

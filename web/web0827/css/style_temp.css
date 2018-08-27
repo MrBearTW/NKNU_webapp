@@ -1,0 +1,23 @@
+@charset "utf-8";
+/* CSS Document */
+#wrapper{width:800px;
+margin:0 auto;}
+
+#header{background-color:#F99;
+height:300px;
+padding-top:30px;
+padding-left:20px;
+}
+
+#content{background-color:#FC9;
+height:300px;
+padding-top:56px;}
+
+#detail{
+	background-color:#6F9;
+	height:100px;
+	width:100px;
+	margin-left:87px}
+
+#footer{background-color:#FF9;
+height:300px;}
