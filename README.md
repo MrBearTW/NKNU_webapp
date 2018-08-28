@@ -19,7 +19,11 @@ https://www.taiwanjobs.gov.tw/Internet/index/CourseQuery_detail.aspx?History=His
 8/22 Java-switch，String  
 8/23 Java-發所有課表，Java老師不知道Java課本是哪一本，  
 8/24 豪雨放假
-8/25 自我介紹 補課+噴登革熱藥，課表又改了 CSS-selector，div，float
+8/25
+8/26
+8/27 自我介紹 補課+噴登革熱藥，課表又改了 CSS-selector，div，float
+8/28 豪雨放假  
+8/29
   
   
 螢幕共享程式github  
