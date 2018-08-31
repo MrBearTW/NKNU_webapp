@@ -9,6 +9,8 @@
 訓練日期：2018/08/16 ～ 2018/10/23
 https://www.taiwanjobs.gov.tw/Internet/index/CourseQuery_detail.aspx?History=History&oid=116059
 
+高屏澎東分署電話 07 821-0171
+
 
 8/16 填資料1hr，發第一個月課表 Java  
 8/17  
@@ -17,7 +19,7 @@ https://www.taiwanjobs.gov.tw/Internet/index/CourseQuery_detail.aspx?History=His
 8/20 自我介紹製作教學1hr HTML-表格，至中，崁入  
 8/21 Java-for，while，break  
 8/22 Java-switch，String  
-8/23 Java-發所有課表，Java老師不知道Java課本是哪一本  
+8/23 發所有課表 Java-，Java老師不知道Java課本是哪一本  
 8/24 豪雨放假
 8/25 週六  
 8/26 週日  
@@ -25,8 +27,8 @@ https://www.taiwanjobs.gov.tw/Internet/index/CourseQuery_detail.aspx?History=His
 8/28 豪雨放假  
 8/29 第一次上8~13 第一次在也沒電腦的第五教室上課  
 8/30 發了一本Java6的書 Java-建構子constructor，繼承Inheritance，覆寫override  
-8/31 
-
+8/31 高屏澎東分署專員訪查 Java Polymorphism，abstract
+9/1 
   
   
 螢幕共享程式github  
