@@ -1,8 +1,8 @@
 ### 那些J什麼的
-JDK{JRE[JVM]}
-JDK Java SE Development Kits開發工具{JRE Java執行環境[JVM Java虛擬機器]}
-Java EE  ：  Java Platform,Enterprise Edition(包含JSP Servlet)
-
+JDK{JRE[JVM]}  
+JDK Java SE Development Kits開發工具{JRE Java執行環境[JVM Java虛擬機器]}  
+Java EE  ：  Java Platform,Enterprise Edition(包含JSP Servlet)  
+  
 ### 8種型態
 
     整數       浮點數         字元     布林
@@ -182,73 +182,73 @@ private 同一個class
 
 
 # 課本CH.6 pptCH.8 繼承、多型
-extend
+extend  
+  
 
-
-沒有小括號的通常是屬性
-父類別不能繼承子類別
-屬性盡量加private，但加了private子類別
-protected有繼承關係就可以取用到
-自計的建構子會叫用父類別的建構子
-
-extend object
-一定會找到繼承.object
-object內的方法都要會
-
-方法 Override 重新定義
+沒有小括號的通常是屬性  
+父類別不能繼承子類別  
+屬性盡量加private，但加了private子類別  
+protected有繼承關係就可以取用到  
+自己的建構子會叫用父類別的建構子  
+  
+extend object  
+一定會找到繼承.object  
+object內的方法都要會  
+  
+方法 Override 重新定義  
 
     Override時，子類別方法的存取範圍只能大於或等於父類別原方法，例如private的
     父類別存取範圍，可用protected或public來改寫子類別方法的存取範圍。但是若
     原本父類別就是public的存取範圍，就無法以protected或private來改寫子類別方法
     。簡言之，範圍大小順序為public、protected、(default)、private，Override
-    只能改寫成大於等於原本的存取範圍。
+    只能改寫成大於等於原本的存取範圍。  
+
+  
+super.   是繼承  
+acc.    是製造一個新的  
+  
+Account acc = new Account("9487-8989174",1000);  
+System.out.println(acc.getAccountNumber());  
+  
 
 
-super.   是繼承
-acc.    是製造一個新的
-
-Account acc = new Account("9487-8989174",1000);
-System.out.println(acc.getAccountNumber());
-
-
-
-final可加三個地方
-1.final放在class 代表禁止繼承
-2.final放在field 代表禁止改值
-3.final放在method代表禁止override
-
-[類別的宣告]
+final可加三個地方  
+1.final放在class 代表禁止繼承  
+2.final放在field 代表禁止改值  
+3.final放在method代表禁止override  
+  
+[類別的宣告]  
 public + final + class + 類別名稱 extends 父類別 implements 介面1 , 介面2 
-( )
-{}
-[屬性的宣告]
-public      + final + static + 屬性型態 + 屬性名稱 = 值 ;
-protected
-(default)
-privated
-[方法的宣告]
-public      + final + static + 回傳型態 + 方法名稱 (參數型態 參數1 , 參數型態 參數2) throws 例外
-protected                       void
-(default)
-privated
-            {return 特定回傳型態的值;}
+( )  
+{}  
+[屬性的宣告]  
+public      + final + static + 屬性型態 + 屬性名稱 = 值 ;  
+protected  
+(default)  
+privated  
+[方法的宣告]  
+public      + final + static + 回傳型態 + 方法名稱 (參數型態 參數1 , 參數型態 參數2) throws 例外  
+protected                       void  
+(default)  
+privated  
+            {return 特定回傳型態的值;}  
 
+  
 
+多型 Polymorphism  
+一式多型  一個式子服務多種形態  
 
-多型 Polymorphism
-一式多型  一個式子服務多種形態
-
-     object                       動物
-     /   \                       /    \
-String   Integer                虎     兔
-Object o = new String("");   動物 a1 = new 虎();
-
+     object                       動物  
+     /   \                       /    \  
+String   Integer                虎     兔  
+Object o = new String("");   動物 a1 = new 虎();  
+  
 ### 抽象類別
 
-類別的完整性排序
-class
-abstract class
-interface           implement後所有的方法都要實作
+類別的完整性排序  
+class  
+abstract class  
+interface           implement後所有的方法都要實作  
 
 只能繼承一個父類別，但可以有多個implement介面
 

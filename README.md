@@ -24,7 +24,9 @@ https://www.taiwanjobs.gov.tw/Internet/index/CourseQuery_detail.aspx?History=His
 8/27 自我介紹 補課+噴登革熱藥，課表又改了 CSS-selector，div，float  
 8/28 豪雨放假  
 8/29 第一次上8~13 第一次在也沒電腦的第五教室上課  
-8/30 
+8/30 發了一本Java6的書 Java-建構子constructor，繼承Inheritance，覆寫override  
+8/31 
+
   
   
 螢幕共享程式github  
