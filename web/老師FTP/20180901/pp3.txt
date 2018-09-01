@@ -1,0 +1,55 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>無標題文件</title>
+</head>
+
+<body>
+<?php
+/*
+  $ta=100;
+  $tb=23;
+  
+   $div=100/23;
+   
+   echo $div; 
+ */
+ /*
+ $qa=30;
+ $qb=52;
+ */
+ 
+ /*
+ $bo=$qa<=$qb;
+ 
+ 
+    echo $bo;
+
+
+  $qa+=$qb;
+
+    echo $qa;
+*/
+/*
+$s1=120;
+$s2=20;
+
+$s1+=$s2;
+$s1*=$s2;
+
+echo $s1;
+*/
+
+
+$d1=50;
+$d2=3;
+
+$res=(int)($d1/$d2);
+
+echo $res;
+?>
+
+
+</body>
+</html>

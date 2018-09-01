@@ -1,3 +1,6 @@
+上課資料https://goo.gl/ozrmGk  
+
+
 i7 K系列 8xxx 兩萬多  
 i5 3xxx 4xxx 六千多  
 i3 3xxx 三千多  
@@ -144,3 +147,81 @@ HTML的註解<!--   -->
 WYSIWYG HTML editor
 Amaya?
 KompoZer?
+
+# 2018/09/01
+## form
+post 透過HTTP Request 方式，故參數與填寫內容不會顯示於URL  
+get 透過URL帶資料  
+  
+
+stack堆疊(由下往上) heap推積(由上往下)  
+1.Q:宣告變數不給值可不可以output？ A:不行，  
+2.列舉可以塞整數布林放在一起，陣列不行  
+3.  
+4.  
+  
+name ->定義表單名稱  
+method ->資料傳送方式 (post,get)  
+action ->資料傳送目標 (不設定(null),頁面(page.php),變數(js,php))  
+  
+Dreamweaver叫出`<form name="form1" method="post" action="">            </form>`
+在設計檢視先點一下，標籤表單>表單  
+
+郵局有提供API可以選地址？  
+
+## Xampp
+phpMyAdmin
+php.ini
+WebServer
+
+配合Android建議安裝5.6.37 / PHP 5.6.37就好  
+控制台>程式和功能>開啟或關閉Windows功能  
+
+
+
+
+Java初學指引：使用SE7  
+作者：陳錦輝  
+https://www.taaze.tw/usedList.html?oid=11100585542  
+  
+Java SE7/8 OCAJP 專業認證指南：擬真試題實戰
+作者： 曾瑞君
+http://www.books.com.tw/products/0010720234  
+  
+深入淺出 Java 程式設計 第二版
+https://www.books.com.tw/products/0010311883
+
+### 新增一個網站
+1.改Xampp控制台Apache的config的`root的路徑`  
+2.改Dreamweaver設定  
+網站管理>伺服器  
+伺服器名稱：`xampp(自訂)`  
+連線方式：選`本機/網路`  
+伺服器資料夾：`網站目錄`  
+Web URL：`http://localhost/`  
+  
+測試伺服器`勾`起來，存檔  
+
+## PHP
+打在兩個問號中間`<?php     ?>`
+
+匿名 primitive
+
+PHP和JavaScript都是弱屬性
+
+### 換行
+加上`."<br />"`  
+
+### 運算子
+算術 ^ % + - * /  
+比較 > >= = <= <  
+邏輯 && AND OR || NOT  
+遞增 i++(後至運算子) ++i(前置運算子) i-- --i  
+  
+PHP中比較運算子若是TRUE會輸出1  
+  
+$a+=$b  
+$a=$a+$b  
+  
+i++常用於LOOP  
+++i常用於雙迴圈  
