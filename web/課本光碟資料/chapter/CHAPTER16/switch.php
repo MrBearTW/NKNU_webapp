@@ -1,0 +1,24 @@
+<?php
+for($x=1;$x<=8;$x++){
+
+	for($y=1;$y<=5;$y++){
+		switch($y){
+		case 1:
+			print "¡·";
+			break;
+		case 2:
+			print "¡¹";
+			break;
+		case 3:
+			print "¡³";
+			break;
+		case 4:
+			print "¡¾";
+			break;
+		case 5:
+			print "¡¶";
+			break;
+		}
+	}
+
+}

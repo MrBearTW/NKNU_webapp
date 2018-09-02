@@ -29,6 +29,8 @@ https://www.taiwanjobs.gov.tw/Internet/index/CourseQuery_detail.aspx?History=His
 8/30 發了一本Java6的書 Java-建構子constructor，繼承Inheritance，覆寫override  
 8/31 高屏澎東分署專員訪查 Java Polymorphism，abstract
 9/1 HTML-form控制項 Xampp設定 PHP 
+9/2 週日  
+9/3 PHP-
   
   
 螢幕共享程式github  

@@ -1,0 +1,3 @@
+此資料夾中的kantan2.html和「ch19」中的不一樣。
+它可以用來測試kantan_select2.php和kantan_delete2.php。
+另外，要使用okuri-utf8.html、uke-utf8.php這兩個檔案時，請先用記事本將它們另存成utf8檔案。
