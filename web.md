@@ -199,6 +199,8 @@ https://www.books.com.tw/products/0010311883
 連線方式：選`本機/網路`  
 伺服器資料夾：`網站目錄`  
 Web URL：`http://localhost/`  
+網站管理>進階
+伺服器模式：`PHP MySQL`(之後新增檔案會自動變成.php檔)  
   
 測試伺服器`勾`起來，存檔  
 
@@ -225,3 +227,36 @@ $a=$a+$b
   
 i++常用於LOOP  
 ++i常用於雙迴圈  
+
+# 2018/09/03
+## 選擇
+switch/case 特定in 對應字元字串條件  
+if/if/else/elseif/else 模糊like 區間值  
+## 迴圈
+for 常用在值的處理(多維陣列)  
+while 不知道終值(輸入密碼)  
+do/while 進行處理之後，再檢查條件  
+
+Array 1.宣告陣列長度 2.[*]給予值  
+
+使用for迴圈時，若是用到arraylist linklist，可能沒有初始值  
+
+## function
+1呼叫
+2控制 事件 onclik
+3計數
+
+有引數時
+
+return
+
+## buffer
+
+scaner(沒有buffer)
+bufferreader(數量大的時候要用這個)
+
+
+
+9/3 PHP-選擇，迴圈，function，buffer
+
+請假紀錄3hr

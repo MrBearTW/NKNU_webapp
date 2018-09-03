@@ -1,0 +1,45 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>無標題文件</title>
+</head>
+
+<body>
+<?php
+$ary1[]="李澎澎";
+$ary1[]="陳小刀";
+$ary1[]="林飛";
+$ary1[]="張大千";
+
+for($i=1;$i<count($ary1);$i++){
+	
+	//echo $ary1[$i]."<br/>";
+	
+	}
+
+
+$arry2=array("李一","陳二","林三","許四");
+
+/*
+for($i=0;$i<count($arry2);$i++){
+	
+	echo $arry2[$i]."<br>";
+	
+	
+	}
+*/
+
+
+foreach($arry2 as $val){
+	
+	
+	echo $val;
+	
+	}
+
+
+
+?>
+</body>
+</html>
