@@ -255,8 +255,41 @@ return
 scaner(沒有buffer)
 bufferreader(數量大的時候要用這個)
 
+web0903-pp7  
+原本是沒有用到buffer  
+加入後會在伺服器端php增加buffer增加處理速度    
+  
+# 2018/09/04
+網頁服務三點：驗證，資料存取，服務  
+## 傳接值
+`&amp`and替代符號  
+透過"超聯結"給值用get接  
+用post接  
+
+帳號密碼登入設計要多加一個中介au.php  
+
+## cookie
+
+名稱  
+變數  
+效期 效期時間歸零  
+
+做一個counter
+counter不應該用cookie做，不然一直F5重新整理就飽了
+要用伺服器端session
 
 
-9/3 PHP-選擇，迴圈，function，buffer
+<<作業>>
+同一頁顯示
+無登入就是登入頁面
+有登入就顯示"親愛的XXX你好"和離開系統回到登入頁面
 
-請假紀錄3hr
+## 物件
+物件之前要先有類別
+
+類別class包含 屬性 方法 
+建構子一定不能return
+
+屬性宣告
+
+## 字符串函数

@@ -30,7 +30,11 @@ https://www.taiwanjobs.gov.tw/Internet/index/CourseQuery_detail.aspx?History=His
 8/31 高屏澎東分署專員訪查 Java Polymorphism，abstract
 9/1 HTML-form控制項 Xampp設定 PHP 
 9/2 週日  
-9/3 PHP-
+9/3 PHP-選擇，迴圈，function，buffer  
+9/4 PHP-傳接值 cookie，date，session，字符串函
+
+
+請假紀錄3hr
   
   
 螢幕共享程式github  
