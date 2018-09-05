@@ -8,9 +8,10 @@
 <body>
 我是登入頁
 <?php
-$Res=$_GET["Res"];
-if($Res=="Nono")
-{echo "xxxxxxx請重新輸入";}
+$Res = $_GET["Res"];
+if ($Res == "Nono") {
+  echo "xxxxxxx請重新輸入";
+}
 ?>
 
 <form name="form1" method="post" action="au.php">

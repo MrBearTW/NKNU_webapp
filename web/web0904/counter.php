@@ -1,21 +1,21 @@
 <?php
-$dateStr=date("Y-m-d 23:59:59"); //抓當天的最後一秒資料
+$dateStr = date("Y-m-d 23:59:59"); //抓當天的最後一秒資料
 //echo $dataStr;
 
-if(isset($_COOKIE["counter"])){
+if (isset($_COOKIE["counter"])) {
 
-$counter=$_COOKIE["counter"];
+	$counter = $_COOKIE["counter"];
 
-$counter++;
+	$counter++;
 
-setcookie("counter",$counter,strtotime($dateStr));
+	setcookie("counter", $counter, strtotime($dateStr));
 
-}else{
-	
-	setcookie("counter","0",strtotime($dateStr));
-	header("Location:counter.php");	
-	
-	}
+} else {
+
+	setcookie("counter", "0", strtotime($dateStr));
+	header("Location:counter.php");
+
+}
 
 ?>
 <!doctype html>
@@ -28,7 +28,7 @@ setcookie("counter",$counter,strtotime($dateStr));
 <body>
 <?php
 
-echo "今日瀏覽次數：".$counter;
+echo "今日瀏覽次數：" . $counter;
 
 ?>
 </body>

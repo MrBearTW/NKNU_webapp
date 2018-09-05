@@ -7,10 +7,10 @@
 
 <body>
 <?php
-$Sid=$_GET["Id"];
-$Spwd=$_GET["Pwd"];
+$Sid = $_GET["Id"];
+$Spwd = $_GET["Pwd"];
 
-echo "學號：".$Sid." 密碼：".$Spwd;
+echo "學號：" . $Sid . " 密碼：" . $Spwd;
 ?>
 
 </body>

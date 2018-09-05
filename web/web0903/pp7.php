@@ -7,14 +7,14 @@
 
 <body>
 <?php
-for($i=1;$i<=30;$i++){
-	if(($i%2)==0){
-		
-		echo $i." ";		
+for ($i = 1; $i <= 30; $i++) {
+	if (($i % 2) == 0) {
+
+		echo $i . " ";
 		ob_flush();
-		}else{
+	} else {
 		ob_clean();
-			}
+	}
 }
 ob_end_flush();
 ?>

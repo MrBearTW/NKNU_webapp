@@ -7,10 +7,10 @@
 
 <body>
 <?php
-$Sid=$_POST["Sid"];
-$Spwd=$_POST["Spwd"];
+$Sid = $_POST["Sid"];
+$Spwd = $_POST["Spwd"];
 
-echo "學號：".$Sid." 密碼：".$Spwd;
+echo "學號：" . $Sid . " 密碼：" . $Spwd;
 ?>
 
 </body>

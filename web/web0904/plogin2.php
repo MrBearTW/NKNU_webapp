@@ -9,10 +9,10 @@
 我是登入頁
 <?php
 
-   $pid=$_POST["Sid"];
-   $pw=$_POST["Spwd"];
+$pid = $_POST["Sid"];
+$pw = $_POST["Spwd"];
 
-   
+
 ?>
 
 <!doctype html>

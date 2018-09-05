@@ -8,12 +8,12 @@
 <body>
 <?php
 
-$a=2;
+$a = 2;
 
 
-if($a==1){
+if ($a == 1) {
 
-?>
+  ?>
 <table width="320" border="0">
   <tr>
     <td colspan="4" align="center">表格1</td>
@@ -38,9 +38,10 @@ if($a==1){
   </tr>
 </table>
 <?php
-}else{
 
-?>
+} else {
+
+  ?>
 <p>&nbsp;</p>
 <table width="320" border="0">
   <tr>

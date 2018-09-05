@@ -1,11 +1,11 @@
 <?php
 session_start();
 
-$_SESSION["stu"]["Sname"]="澄清湖";
-$_SESSION["stu"]["Sid"]="st09527";
-$_SESSION["stu"]["Saddr"]="打狗";
+$_SESSION["stu"]["Sname"] = "澄清湖";
+$_SESSION["stu"]["Sid"] = "st09527";
+$_SESSION["stu"]["Saddr"] = "打狗";
 
-echo $_SESSION["stu"]["Sname"]." ".$_SESSION["stu"]["Sid"]." ".$_SESSION["stu"]["Saddr"] ;
+echo $_SESSION["stu"]["Sname"] . " " . $_SESSION["stu"]["Sid"] . " " . $_SESSION["stu"]["Saddr"];
 ?>
 <!doctype html>
 <html>

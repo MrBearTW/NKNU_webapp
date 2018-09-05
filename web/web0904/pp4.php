@@ -1,8 +1,8 @@
 <?php
-$a=9;
-if(isset($a)){
+$a = 9;
+if (isset($a)) {
 	echo "true statement";
-	}else{
-		echo "false statement";
-	}
+} else {
+	echo "false statement";
+}
 ?>
