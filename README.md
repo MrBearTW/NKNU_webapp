@@ -32,7 +32,8 @@ https://www.taiwanjobs.gov.tw/Internet/index/CourseQuery_detail.aspx?History=His
 9/2 週日  
 9/3 PHP-選擇，迴圈，function，buffer  
 9/4 PHP-傳接值 cookie，date，session，字符串函
-
+9/5
+9/6 PHP-strtotime時間戳記，String content
 
 請假紀錄3hr
   

@@ -293,3 +293,36 @@ counter不應該用cookie做，不然一直F5重新整理就飽了
 屬性宣告
 
 ## 字符串函数
+
+
+# 20180906
+
+有button的話要放在form裡面
+## 作業講解 web0904_login.php
+消除session用unset
+
+## strtotime
+
+## is_readable	readfile
+搭配if可將過長文章分頁顯示
+
+## read write
+w+ 就算是唯讀也可以寫
+讀取顯示圖片  
+
+# MySQL
+CMD加入PATH  
+`set PATH=C:\xampp\mysql\bin;++++++原本的原本的原本的`  
+
+##改密碼
+C:\xampp\phpMyAdmin\config.inc.php
+第21行加入密碼  
+```
+/* Authentication type and info */
+$cfg['Servers'][$i]['auth_type'] = 'config';
+$cfg['Servers'][$i]['user'] = 'root';
+$cfg['Servers'][$i]['password'] = '';<<<<<<<<<<<<<<<這個
+```
+選無密碼
+
+##新增sp1使用者
