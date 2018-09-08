@@ -34,7 +34,8 @@ https://www.taiwanjobs.gov.tw/Internet/index/CourseQuery_detail.aspx?History=His
 9/4 PHP-傳接值 cookie，date，session，字符串函
 9/5
 9/6 PHP-strtotime時間戳記，String content
-
+9/7 專題- 就業市場分析及求職技巧- 網際網路-
+9/8 Android-安裝STUDIO
 請假紀錄3hr
   
   
