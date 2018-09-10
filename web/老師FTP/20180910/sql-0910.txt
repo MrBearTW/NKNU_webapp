@@ -1,0 +1,65 @@
+1.查詢st_detail資料表指令
+select * from st_detail;
+
+
+2.分組別名
+SELECT st_num as "自動編號",st_id as "學號" ,st_name as "姓名"  FROM `st_detail` WHERE 1
+
+3.依st_tel欄位遞減排序
+SELECT * FROM `st_detail` order by st_tel desc
+
+
+4.顯示筆數設定
+SELECT * FROM `st_detail` LIMIT 0,2
+
+5.特定條件篩選(選出st00000004學生資料)
+SELECT * FROM `st_detail` WHERE  st_id='st00000004'
+
+6.特定聯集條件篩選(選出「高雄市」、「男生」)
+SELECT * FROM `st_detail` WHERE st_gender='男' and st_addr='高雄市'
+
+7.北風order特定欄位，產生特定計算欄位
+select orderid as 訂單編號,customerid as 會員編號,shipvia as 數量,freight as 單價,(ShipVia*Freight) as 價格 from orders
+
+8.(接上題)加入四捨五入功能
+select orderid as 訂單編號,customerid as 會員編號,shipvia as 數量,freight as 單價,ROUND((ShipVia*Freight),2) as 價格 from orders
+
+9.product 資料表 運算查詢
+SELECT ProductName as 產品名稱, SupplierID as 供應商 ,QuantityPerUnit as 規格 ,round((UnitPrice*UnitsInStock)) as 購買金額 FROM products
+
+10.顯示資料表總筆數
+SELECT COUNT(*) as 總筆數 FROM `products`
+
+11.取得欄位最大值
+SELECT max(Quantity) FROM `order details`
+
+12.查詢「order details」資料夾 設定orderId 103開頭和unitPrice大於25的值
+SELECT * as 總計 FROM `order details` WHERE OrderID like '103%' and UnitPrice>=25
+
+13.(接上題)顯示統計筆數
+SELECT count(*) as 總計 FROM `order details` WHERE OrderID like '103%' and UnitPrice>=25
+
+14.查詢欄位後群組欄位並顯示統計值-顯示「orderId」「Quantity」欄位總計並以「OrderId」欄位分群 
+SELECT OrderID,sum(Quantity) FROM `order details`GROUP by OrderID
+
+15.(接上題)顯示「orderId」*「Quantity」欄位總計並以「OrderId」排序
+SELECT OrderID,sum(Quantity*UnitPrice) FROM `order details` GROUP by OrderID
+
+16.(接上題)使用group by做條件篩選必使用having
+SELECT OrderID as 訂單編號,sum(Quantity*UnitPrice) as 總計 FROM `order details` GROUP by OrderID HAVING sum(Quantity*UnitPrice)>=2000
+	
+17.於字串第3個字起往前插入新增字串
+SELECT title,insert(title,3,0,'120') FROM test
+
+18.左側開始顯示，並限制5字元的長度
+select LEFT(detail,5) from test2
+
+19.尋找特地字串位置
+select detail,INSTR(detail,'kaohsiung') from test2
+
+
+
+
+
+
+

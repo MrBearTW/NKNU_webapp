@@ -326,3 +326,51 @@ $cfg['Servers'][$i]['password'] = '';<<<<<<<<<<<<<<<這個
 選無密碼
 
 ##新增sp1使用者
+
+
+# 2018/09/10
+
+改成utf8_unicode_ci  
+
+## 前綴字元
+_xxxxx
+1備份
+2參考欄
+3對應字元
+
+Auto_Increament
+
+1不可重複Primary Key(主鍵)
+2AI_PK
+
+
+
+Navicat 
+
+SSL伺服器
+
+
+
+order by
+asc遞增
+desc遞減
+
+varchar 1 <<是字數
+
+
+
+改my.ini
+# enable-named-pipe
+key_buffer = 16M
+max_allowed_packet = 10M
+sort_buffer_size = 512K
+net_buffer_length = 8K
+read_buffer_size = 8192K
+read_rnd_buffer_size = 512K
+myisam_sort_buffer_size = 64M
+log_error = "mysql_error.log"
+
+
+
+ABS()絕對值  
+ROUND([值],位數)四捨五入

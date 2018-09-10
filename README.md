@@ -1,4 +1,4 @@
- 課程名稱：行動應用程式開發與企業網路應用人員養成班 第01期
+# 課程名稱：行動應用程式開發與企業網路應用人員養成班 第01期
 訓練費用： 學員負擔：5003
 政府負擔：29013
 訓練單位：國立高雄師範大學
@@ -9,7 +9,7 @@
 訓練日期：2018/08/16 ～ 2018/10/23
 https://www.taiwanjobs.gov.tw/Internet/index/CourseQuery_detail.aspx?History=History&oid=116059
 
-高屏澎東分署電話 07 821-0171
+高屏澎東分署電話 07 821-0171 #2318
 
 
 8/16 填資料1hr，發第一個月課表 Java  
@@ -35,9 +35,10 @@ https://www.taiwanjobs.gov.tw/Internet/index/CourseQuery_detail.aspx?History=His
 9/5 
 9/6 PHP-strtotime時間戳記，String content
 9/7 專題- 就業市場分析及求職技巧- 網際網路-
-9/8 Android-安裝STUDIO
-9/9 週日
-9/10 
+9/8 Android-安裝STUDIO 5hr  
+9/9 週日  
+9/10 SQL  
+9/11   
 
 請假紀錄3hr
   
