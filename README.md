@@ -28,7 +28,7 @@ https://www.taiwanjobs.gov.tw/Internet/index/CourseQuery_detail.aspx?History=His
 8/29 第一次上8~13 第一次在也沒電腦的第五教室上課  
 8/30 發了一本Java6的書 Java-建構子constructor，繼承Inheritance，覆寫override  
 8/31 高屏澎東分署專員訪查 Java Polymorphism，abstract
-9/1 HTML-form控制項 Xampp設定 PHP 
+9/1 HTML-form控制項 Xampp設定 PHP-
 9/2 週日  
 9/3 PHP-選擇，迴圈，function，buffer  
 9/4 PHP-傳接值 cookie，date，session，字符串函
@@ -38,7 +38,8 @@ https://www.taiwanjobs.gov.tw/Internet/index/CourseQuery_detail.aspx?History=His
 9/8 Android-安裝STUDIO 5hr  
 9/9 週日  
 9/10 SQL  
-9/11   
+9/11 Android-OnClick，listener  
+9/12 Java-封裝，Abstract Android-
 
 請假紀錄3hr
   
