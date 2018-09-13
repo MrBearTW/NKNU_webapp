@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">myapp_ch6_theater</string>
+    <string-array name="cinemas">
+        <item>天龍影城</item>
+        <item>光榮影城</item>
+        <item>幸福影城</item>
+        <item>打狗影城</item>
+        <item>海港影城</item>
+    </string-array>
+</resources>

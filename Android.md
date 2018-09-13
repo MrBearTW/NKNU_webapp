@@ -45,7 +45,12 @@ btn.setOnClickListener(this);
 ###
 # 2018/09/12
 觸控讓手機震動CH4-28
-
+溫度換算
 
 ### 程式邏輯建立
 https://studio.code.org/courses
+
+# 2018/09/13
+
+android.support.constraint.ConstraintLayout
+linearlayout
