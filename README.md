@@ -9,7 +9,7 @@
 訓練日期：2018/08/16 ～ 2018/10/23
 https://www.taiwanjobs.gov.tw/Internet/index/CourseQuery_detail.aspx?History=History&oid=116059
 
-高屏澎東分署電話 07 821-0171 #2318
+高屏澎東分署電話 07 821-0171 #2302
 
 
 8/16 填資料1hr，發第一個月課表 Java  
@@ -39,7 +39,12 @@ https://www.taiwanjobs.gov.tw/Internet/index/CourseQuery_detail.aspx?History=His
 9/9 週日  
 9/10 SQL  
 9/11 Android-OnClick，listener  
-9/12 Java-封裝，Abstract Android-
+9/12 Java-封裝，Abstract Android-Ch5  
+9/13 Android-Ch5,Ch6  
+9/14 Java-Interface JSP
+9/15 Android-
+9/16 週日  
+9/17  
 
 請假紀錄3hr
   
