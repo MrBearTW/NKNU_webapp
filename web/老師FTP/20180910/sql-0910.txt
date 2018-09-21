@@ -1,60 +1,60 @@
-1.æŸ¥è©¢st_detailè³‡æ–™è¡¨æŒ‡ä»¤
+1.¬d¸ßst_detail¸ê®Æªí«ü¥O
 select * from st_detail;
 
 
-2.åˆ†çµ„åˆ¥å
-SELECT st_num as "è‡ªå‹•ç·¨è™Ÿ",st_id as "å­¸è™Ÿ" ,st_name as "å§“å"  FROM `st_detail` WHERE 1
+2.¤À²Õ§O¦W
+SELECT st_num as "¦Û°Ê½s¸¹",st_id as "¾Ç¸¹" ,st_name as "©m¦W"  FROM `st_detail` WHERE 1
 
-3.ä¾st_telæ¬„ä½éæ¸›æ’åº
+3.¨Ìst_telÄæ¦ì»¼´î±Æ§Ç
 SELECT * FROM `st_detail` order by st_tel desc
 
 
-4.é¡¯ç¤ºç­†æ•¸è¨­å®š
+4.Åã¥Üµ§¼Æ³]©w
 SELECT * FROM `st_detail` LIMIT 0,2
 
-5.ç‰¹å®šæ¢ä»¶ç¯©é¸(é¸å‡ºst00000004å­¸ç”Ÿè³‡æ–™)
+5.¯S©w±ø¥ó¿z¿ï(¿ï¥Xst00000004¾Ç¥Í¸ê®Æ)
 SELECT * FROM `st_detail` WHERE  st_id='st00000004'
 
-6.ç‰¹å®šè¯é›†æ¢ä»¶ç¯©é¸(é¸å‡ºã€Œé«˜é›„å¸‚ã€ã€ã€Œç”·ç”Ÿã€)
-SELECT * FROM `st_detail` WHERE st_gender='ç”·' and st_addr='é«˜é›„å¸‚'
+6.¯S©wÁp¶°±ø¥ó¿z¿ï(¿ï¥X¡u°ª¶¯¥«¡v¡B¡u¨k¥Í¡v)
+SELECT * FROM `st_detail` WHERE st_gender='¨k' and st_addr='°ª¶¯¥«'
 
-7.åŒ—é¢¨orderç‰¹å®šæ¬„ä½ï¼Œç”¢ç”Ÿç‰¹å®šè¨ˆç®—æ¬„ä½
-select orderid as è¨‚å–®ç·¨è™Ÿ,customerid as æœƒå“¡ç·¨è™Ÿ,shipvia as æ•¸é‡,freight as å–®åƒ¹,(ShipVia*Freight) as åƒ¹æ ¼ from orders
+7.¥_­·order¯S©wÄæ¦ì¡A²£¥Í¯S©w­pºâÄæ¦ì
+select orderid as ­q³æ½s¸¹,customerid as ·|­û½s¸¹,shipvia as ¼Æ¶q,freight as ³æ»ù,(ShipVia*Freight) as »ù®æ from orders
 
-8.(æ¥ä¸Šé¡Œ)åŠ å…¥å››æ¨äº”å…¥åŠŸèƒ½
-select orderid as è¨‚å–®ç·¨è™Ÿ,customerid as æœƒå“¡ç·¨è™Ÿ,shipvia as æ•¸é‡,freight as å–®åƒ¹,ROUND((ShipVia*Freight),2) as åƒ¹æ ¼ from orders
+8.(±µ¤WÃD)¥[¤J¥|±Ë¤­¤J¥\¯à
+select orderid as ­q³æ½s¸¹,customerid as ·|­û½s¸¹,shipvia as ¼Æ¶q,freight as ³æ»ù,ROUND((ShipVia*Freight),2) as »ù®æ from orders
 
-9.product è³‡æ–™è¡¨ é‹ç®—æŸ¥è©¢
-SELECT ProductName as ç”¢å“åç¨±, SupplierID as ä¾›æ‡‰å•† ,QuantityPerUnit as è¦æ ¼ ,round((UnitPrice*UnitsInStock)) as è³¼è²·é‡‘é¡ FROM products
+9.product ¸ê®Æªí ¹Bºâ¬d¸ß
+SELECT ProductName as ²£«~¦WºÙ, SupplierID as ¨ÑÀ³°Ó ,QuantityPerUnit as ³W®æ ,round((UnitPrice*UnitsInStock)) as ÁÊ¶Rª÷ÃB FROM products
 
-10.é¡¯ç¤ºè³‡æ–™è¡¨ç¸½ç­†æ•¸
-SELECT COUNT(*) as ç¸½ç­†æ•¸ FROM `products`
+10.Åã¥Ü¸ê®ÆªíÁ`µ§¼Æ
+SELECT COUNT(*) as Á`µ§¼Æ FROM `products`
 
-11.å–å¾—æ¬„ä½æœ€å¤§å€¼
+11.¨ú±oÄæ¦ì³Ì¤j­È
 SELECT max(Quantity) FROM `order details`
 
-12.æŸ¥è©¢ã€Œorder detailsã€è³‡æ–™å¤¾ è¨­å®šorderId 103é–‹é ­å’ŒunitPriceå¤§æ–¼25çš„å€¼
-SELECT * as ç¸½è¨ˆ FROM `order details` WHERE OrderID like '103%' and UnitPrice>=25
+12.¬d¸ß¡uorder details¡v¸ê®Æ§¨ ³]©worderId 103¶}ÀY©MunitPrice¤j©ó25ªº­È
+SELECT * as Á`­p FROM `order details` WHERE OrderID like '103%' and UnitPrice>=25
 
-13.(æ¥ä¸Šé¡Œ)é¡¯ç¤ºçµ±è¨ˆç­†æ•¸
-SELECT count(*) as ç¸½è¨ˆ FROM `order details` WHERE OrderID like '103%' and UnitPrice>=25
+13.(±µ¤WÃD)Åã¥Ü²Î­pµ§¼Æ
+SELECT count(*) as Á`­p FROM `order details` WHERE OrderID like '103%' and UnitPrice>=25
 
-14.æŸ¥è©¢æ¬„ä½å¾Œç¾¤çµ„æ¬„ä½ä¸¦é¡¯ç¤ºçµ±è¨ˆå€¼-é¡¯ç¤ºã€ŒorderIdã€ã€ŒQuantityã€æ¬„ä½ç¸½è¨ˆä¸¦ä»¥ã€ŒOrderIdã€æ¬„ä½åˆ†ç¾¤ 
+14.¬d¸ßÄæ¦ì«á¸s²ÕÄæ¦ì¨ÃÅã¥Ü²Î­p­È-Åã¥Ü¡uorderId¡v¡uQuantity¡vÄæ¦ìÁ`­p¨Ã¥H¡uOrderId¡vÄæ¦ì¤À¸s 
 SELECT OrderID,sum(Quantity) FROM `order details`GROUP by OrderID
 
-15.(æ¥ä¸Šé¡Œ)é¡¯ç¤ºã€ŒorderIdã€*ã€ŒQuantityã€æ¬„ä½ç¸½è¨ˆä¸¦ä»¥ã€ŒOrderIdã€æ’åº
+15.(±µ¤WÃD)Åã¥Ü¡uorderId¡v*¡uQuantity¡vÄæ¦ìÁ`­p¨Ã¥H¡uOrderId¡v±Æ§Ç
 SELECT OrderID,sum(Quantity*UnitPrice) FROM `order details` GROUP by OrderID
 
-16.(æ¥ä¸Šé¡Œ)ä½¿ç”¨group byåšæ¢ä»¶ç¯©é¸å¿…ä½¿ç”¨having
-SELECT OrderID as è¨‚å–®ç·¨è™Ÿ,sum(Quantity*UnitPrice) as ç¸½è¨ˆ FROM `order details` GROUP by OrderID HAVING sum(Quantity*UnitPrice)>=2000
+16.(±µ¤WÃD)¨Ï¥Îgroup by°µ±ø¥ó¿z¿ï¥²¨Ï¥Îhaving
+SELECT OrderID as ­q³æ½s¸¹,sum(Quantity*UnitPrice) as Á`­p FROM `order details` GROUP by OrderID HAVING sum(Quantity*UnitPrice)>=2000
 	
-17.æ–¼å­—ä¸²ç¬¬3å€‹å­—èµ·å¾€å‰æ’å…¥æ–°å¢å­—ä¸²
+17.©ó¦r¦ê²Ä3­Ó¦r°_©¹«e´¡¤J·s¼W¦r¦ê
 SELECT title,insert(title,3,0,'120') FROM test
 
-18.å·¦å´é–‹å§‹é¡¯ç¤ºï¼Œä¸¦é™åˆ¶5å­—å…ƒçš„é•·åº¦
+18.¥ª°¼¶}©lÅã¥Ü¡A¨Ã­­¨î5¦r¤¸ªºªø«×
 select LEFT(detail,5) from test2
 
-19.å°‹æ‰¾ç‰¹åœ°å­—ä¸²ä½ç½®
+19.´M§ä¯S¦a¦r¦ê¦ì¸m
 select detail,INSTR(detail,'kaohsiung') from test2
 
 

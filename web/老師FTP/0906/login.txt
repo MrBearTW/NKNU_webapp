@@ -1,0 +1,94 @@
+<?php
+session_start();
+
+//祅砞﹚
+if(!isset($_SESSION["membername"]) || $_SESSION["membername"]==""){
+	
+	if(isset($_POST["username"]) && isset($_POST["pwd"])){
+		
+		  $username="admin";
+		  $pwd="admin";
+		
+		if(($_POST["username"]==$username)&&($_POST["pwd"]==$pwd)){
+			
+			
+			 $_SESSION["membername"]=$username;
+			
+			}
+			
+		header("Location:login.php");
+		
+		}
+	
+	}
+	
+	//祅砞﹚
+	
+    if(isset($_GET["logout"]) && ($_GET["logout"]=="true" )){
+		
+	unset($_SESSION["membername"]);
+	
+	header("Location:login.php");
+		
+		}
+	
+	
+	
+
+?>
+
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>礚夹肈ゅン</title>
+</head>
+
+<body>
+<?php
+if(!isset($_SESSION["membername"])||($_SESSION["membername"]=="")){
+	
+?>
+<form name="form1" method="post" action="">
+  <table width="400" border="1" align="center">
+    <tr>
+      <td colspan="2" align="center" bgcolor="#CCCC66">祅╰参</td>
+    </tr>
+    <tr>
+      <td width="117" align="center">眀腹</td>
+      <td width="267"><input type="text" name="username" id="username"></td>
+    </tr>
+     <tr>
+      <td width="117" align="center">盞絏</td>
+      <td width="267"><input type="text" name="pwd" id="pwd"></td>
+    </tr>   
+    <tr>
+      <td colspan="2" align="center"><input type="submit" name="submit" id="submit" value="癳戈"> <input type="reset" name="reset" id="reset" value="砞戈"></td>
+    </tr>
+  </table>
+</form>
+<?php
+}else{
+?>
+
+
+<table width="400" border="1" align="center">
+  <tr>
+    <td align="center" bgcolor="#CCCC66">穦祅╰参</td>
+  </tr>
+  <tr>
+    <td align="center">克稲 <?php echo $_SESSION["membername"]; ?> 眤舧ㄏノセ╰参</td>
+  </tr>
+  <tr>
+    <td align="center"><a href="login.php?logout=true">祅╰参</a></td>
+  </tr>
+</table>
+
+<?php
+
+}
+?>
+
+<p>&nbsp;</p>
+</body>
+</html>

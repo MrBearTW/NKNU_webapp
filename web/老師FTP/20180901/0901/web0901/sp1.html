@@ -1,0 +1,114 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>無標題文件</title>
+</head>
+
+<body>
+<form name="form1" method="post" action="">
+
+  <table width="640" border="0">
+    <tr>
+      <th height="30" colspan="2">學生基本資料</th>
+    </tr>
+    <tr>
+      <td width="18%" height="30" align="center">姓名</td>
+      <td height="30"><input name="st_na" type="text" id="st_na" size="25" maxlength="20"></td>
+    </tr>
+    <tr>
+      <td width="18%" height="30" align="center">性別</td>
+      <td height="30"><p>
+        <label>
+          <input name="RadioGroup1" type="radio" id="RadioGroup1_0" value="m" checked>
+          男</label>
+        <label>
+          <input type="radio" name="RadioGroup1" value="f" id="RadioGroup1_1">
+          女</label>
+        <label>
+          <input type="radio" name="RadioGroup1" value="not" id="RadioGroup1_2">
+          不便公開</label>
+        <br>
+      </p></td>
+    </tr>
+    <tr>
+      <td width="18%" height="30" align="center">聯絡電話</td>
+      <td height="30">(
+        <input name="stu_phone1" type="text" id="stu_phone1" size="4" maxlength="4">
+        )
+        -
+        <input name="stu_phone2" type="text" id="stu_phone2" size="10" maxlength="6"></td>
+    </tr>
+    <tr>
+      <td width="18%" height="30" align="center">聯絡地址</td>
+      <td height="30"><select name="st_addr1" id="st_addr1">
+        <option value="1">台北市</option>
+        <option value="2">台中市</option>
+        <option value="3">高雄市</option>
+      </select>
+      <input type="text" name="st_addr2" id="st_addr2"></td>
+    </tr>
+    <tr>
+      <td width="18%" height="30" align="center">緊急聯絡人</td>
+      <td height="30"><input name="st_re1" type="text" id="st_re1" size="10" maxlength="10"> 
+        關係：
+          <select name="st_re2" id="st_re2">
+            <option value="1">父子/女</option>
+            <option value="2">母子/女</option>
+        </select></td>
+    </tr>
+    <tr>
+      <td width="18%" height="30" align="center">最高學歷</td>
+      <td height="30"><p>
+        <label>
+          <input name="RadioGroup2" type="radio" id="RadioGroup2_0" value="國小" checked>
+          國小</label>
+        <label>
+          <input type="radio" name="RadioGroup2" value="國中" id="RadioGroup2_1">
+          國中</label>
+        <label>
+          <input type="radio" name="RadioGroup2" value="高中" id="RadioGroup2_2">
+          高中</label>
+        <label>
+          <input type="radio" name="RadioGroup2" value="大學" id="RadioGroup2_3">
+          大學</label>
+        <label>
+          <input type="radio" name="RadioGroup2" value="研究所以上" id="RadioGroup2_4">
+          研究所以上</label>
+        <br>
+      </p></td>
+    </tr>
+    <tr>
+      <td width="18%" height="30" align="center">認證科目</td>
+      <td height="30"><p>
+        <label>
+          <input type="checkbox" name="CheckboxGroup1" value="程式設計類" id="CheckboxGroup1_0">
+          程式設計類</label>
+        <label>
+          <input type="checkbox" name="CheckboxGroup1" value="視覺設計類" id="CheckboxGroup1_1">
+          視覺設計類</label>
+        <label>
+          <input type="checkbox" name="CheckboxGroup1" value="商業類" id="CheckboxGroup1_2">
+          商業類</label>
+        <label>
+          <input type="checkbox" name="CheckboxGroup1" value="辦公室應用類" id="CheckboxGroup1_3">
+          辦公室應用類</label>
+        <br>
+      </p></td>
+    </tr>
+    <tr>
+      <td height="30" colspan="2" align="center"><input type="submit" name="submit" id="submit" value="送出">
+      <input type="reset" name="reset" id="reset" value="重設"></td>
+    </tr>
+  </table>
+
+
+</form>
+
+
+
+
+
+
+</body>
+</html>

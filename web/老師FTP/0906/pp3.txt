@@ -1,0 +1,36 @@
+
+
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>無標題文件</title>
+</head>
+
+<body>
+<p>
+  <?php
+  /*
+$filename=fopen("txt0906.txt","w+");
+fwrite($filename,"寫不進去就GG了！！");
+fwrite($filename,"寫不進去就GG了！！");
+fwrite($filename,"寫不進去就GG了！！");
+fwrite($filename,"寫不進去就GG了！！");
+fwrite($filename,"寫不進去就GG了！！");
+readfile("txt0906.txt");
+
+*/
+header('Content-Type:image/gif');
+$filename2=fopen("bear.gif","rb");
+$content2=fread($filename2,filesize("bear.gif"));
+
+
+echo $content2;
+
+?>
+</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+</body>
+</html>
