@@ -2,15 +2,15 @@
 <html>
 <head>
 <meta charset="utf-8">
-<title>�L���D���</title>
+<title>無標題文件</title>
 
 <link href="css/style.css" type="text/css" rel="stylesheet" />
 </head>
 
 <body>
-<p><a href="#news1">�s���@</a></p>
-<p><a href="#news2">�s���G</a></p>
-<p><a href="#news3">�s���T</a></p>
+<p><a href="#news1">連結一</a></p>
+<p><a href="#news2">連結二</a></p>
+<p><a href="#news3">連結三</a></p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
@@ -25,37 +25,10 @@
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
-<p><span id="news1"></span>������H�����X�A��n��y��ŧ�A���P�T�]29 ��^�e�������n���a�ϱa�ӻ��j�B�A�̪F���F���b�Q�]26�^��`�]�ť����Z�ҡA�������x�ߤ@�񰲪������A���O�� 24 ��n�x�W�ɫB�ɡA�̪F���O�ߤ@���񰲪������A�������͹��o�ӡu�񰲼зǡv�P��̲ܶ��A�ɯɤW������s�w���y�ѯd�����ġG�u�����y�ѳQ�s�F�H�v"������</p>
-<p>�H�����X�A��n��y��ŧ�A���P�T�]29 ��^�e�������n���a�ϱa�ӻ��j�B�A�̪F���F���b�Q�]26�^��`�]�ť����Z�ҡA�������x�ߤ@�񰲪������A���O�� 24 ��n�x�W�ɫB�ɡA�̪F���O�ߤ@���񰲪������A�������͹��o�ӡu�񰲼зǡv�P��̲ܶ��A�ɯɤW������s�w���y�ѯd�����ġG�u�����y�ѳQ�s�F�H�v</p>
-<p>��X�C����ɡA��e���a�ʧC������n�x�W�A���j�B�g���A�޵o�h�B�a���W�ǡF24 ����ƥH�n�����F���Һ��ť����Z�B���ҡA�߿W�P�˭��j�B�j���̪F���ť��ӱ`�W�Z�ҡA�O�j����ʹ�J�̪F������s�w���y�ѯd���h��C"</p>
-<p>��X�C����ɡA��e���a�ʧC������n�x�W�A���j�B�g���A�޵o�h�B�a���W�ǡF24 ����ƥH�n�����F���Һ��ť����Z�B���ҡA�߿W�P�˭��j�B�j���̪F���ť��ӱ`�W�Z�ҡA�O�j����ʹ�J�̪F������s�w���y�ѯd���h��C</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p><span id="news2"></span>���B�F���n�x�W�A�B�N���ˤ��@��A�U�a�ǥX�T���a���A���L�������F��(27��)�M��ť��A�ѩ�̤�����H�������ܡA���������F���Z�ҼзǡA�ť����`�W�Z�W�ҡA�٩I�~�u�����B�ͫO��ĵ�١v�A�����a���ͮ𬵤F�A���z�N�z�����\�ߩ��y�ѡA�o�o�{�\�ߩ��쥻�o���峹�u�R��F�v�A�����Ͷ̲��u�����n�ީ񰲡A�A�����R��O���򪬪p�H�v</p>
+<p><span id="news1"></span>中央氣象局指出，西南氣流來襲，本周三（29 日）前恐為中南部地區帶來豪大雨，屏東縣政府在昨（26）日深夜宣布停班課，成為全台唯一放假的縣市，有別於 24 日南台灣暴雨時，屏東縣是唯一未放假的縣市，部分網友對於這個「放假標準」感到很傻眼，紛紛上縣長潘孟安的臉書留言狠酸：「縣長臉書被盜了？」"中央氣</p>
+<p>象局指出，西南氣流來襲，本周三（29 日）前恐為中南部地區帶來豪大雨，屏東縣政府在昨（26）日深夜宣布停班課，成為全台唯一放假的縣市，有別於 24 日南台灣暴雨時，屏東縣是唯一未放假的縣市，部分網友對於這個「放假標準」感到很傻眼，紛紛上縣長潘孟安的臉書留言狠酸：「縣長臉書被盜了？」</p>
+<p>綜合媒體報導，日前熱帶性低氣壓橫掃南台灣，豪大雨狂炸，引發多處災情頻傳；24 日彰化以南縣市政府皆緊急宣布停班、停課，唯獨同樣風強雨大的屏東市宣布照常上班課，令大批網友湧入屏東縣長潘孟安的臉書留言痛批。"</p>
+<p>綜合媒體報導，日前熱帶性低氣壓橫掃南台灣，豪大雨狂炸，引發多處災情頻傳；24 日彰化以南縣市政府皆緊急宣布停班、停課，唯獨同樣風強雨大的屏東市宣布照常上班課，令大批網友湧入屏東縣長潘孟安的臉書留言痛批。</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
@@ -77,28 +50,55 @@
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
-<p><span id="news3"></span>�����ɡm�c�@�@���k�n�m�ڥi�ण�|�R�A�n�������@�A�h�~�S�̡m��Ҩk����j�H�n�l�y���D�ۭ��A�b�v���馳�u�������v�~�����ɺt£�͹�A���24��b�����o�ͨ��סC�ѩ�L�˶դ����A�쥻�n�������ȤӼv�i����{���H�A�p���w�Ѭ_���������C�����ɡm�c�@�@���k�n�m�ڥi�ण�|�R�A�n�������@�A�h�~�S�̡m��Ҩk����j�H�n�l�y���D�ۭ��A�b�v���馳�u�������v�~�����ɺt£�͹�A���24��b�����o�ͨ��סC�ѩ�L�˶դ����A�쥻�n�������ȤӼv�i����{���H�A�p���w�Ѭ_���������C</p>
-<p>£�͹�24��߶����ܦb�����|��uť������2018�H�����y�v�A�ѩ��e�����ѭԤ��ΡA�L�M�����������ƺL�ˡA�ˤΪӻH�A�Ȯɤ]�L�k�����A�����b�a��i�C" £�͹�24��߶����ܦb�����|��uť������2018�H�����y�v�A�ѩ��e�����ѭԤ��ΡA�L�M�����������ƺL�ˡA�ˤΪӻH�A�Ȯɤ]�L�k�����A�����b�a��i�C</p>
-<p type="text" content="�h�~�q���@�m��Ҩk����j�H�n�j���A£�͹綶�եl����Z�H���}��q�v���m��Ҥj�H��k�ġn�A�b�P���ɴ����U�}�����СC" data-reactid="20">�h�~�q���@�m��Ҩk����j�H�n�j���A£�͹綶�եl����Z�H���}��q�v���m��Ҥj�H��k�ġn�A�b�P���ɴ����U�}�����СC</p>
-<p type="text" content="�쥻£�͹�N�v���Y���P�B�s�o�ءB�_�������m��ҡn�t���s�X�u���g���|�檺�ȤӼv�i�A�þ���{���H�A�p���X�F���סA�ȤӼv�i�ƥD�u����H���ܡA£�͹窺�{���u�@�N�Ѭ_���������C" data-reactid="21">�쥻£�͹�N�v���Y���P�B�s�o�ءB�_�������m��ҡn�t���s�X�u���g���|�檺�ȤӼv�i�A�þ���{���H�A�p���X�F���סA�ȤӼv�i�ƥD�u����H���ܡA£�͹窺�{���u�@�N�Ѭ_���������C</p>
-<p type="text" content="�쥻£�͹�N�v���Y���P�B�s�o�ءB�_�������m��ҡn�t���s�X�u���g���|�檺�ȤӼv�i�A�þ���{���H�A�p���X�F���סA�ȤӼv�i�ƥD�u����H���ܡA£�͹窺�{���u�@�N�Ѭ_���������C" data-reactid="21">&nbsp;</p>
-<p type="text" content="�쥻£�͹�N�v���Y���P�B�s�o�ءB�_�������m��ҡn�t���s�X�u���g���|�檺�ȤӼv�i�A�þ���{���H�A�p���X�F���סA�ȤӼv�i�ƥD�u����H���ܡA£�͹窺�{���u�@�N�Ѭ_���������C" data-reactid="21">&nbsp;</p>
-<p type="text" content="�쥻£�͹�N�v���Y���P�B�s�o�ءB�_�������m��ҡn�t���s�X�u���g���|�檺�ȤӼv�i�A�þ���{���H�A�p���X�F���סA�ȤӼv�i�ƥD�u����H���ܡA£�͹窺�{���u�@�N�Ѭ_���������C" data-reactid="21">&nbsp;</p>
-<p type="text" content="�쥻£�͹�N�v���Y���P�B�s�o�ءB�_�������m��ҡn�t���s�X�u���g���|�檺�ȤӼv�i�A�þ���{���H�A�p���X�F���סA�ȤӼv�i�ƥD�u����H���ܡA£�͹窺�{���u�@�N�Ѭ_���������C" data-reactid="21">&nbsp;</p>
-<p type="text" content="�쥻£�͹�N�v���Y���P�B�s�o�ءB�_�������m��ҡn�t���s�X�u���g���|�檺�ȤӼv�i�A�þ���{���H�A�p���X�F���סA�ȤӼv�i�ƥD�u����H���ܡA£�͹窺�{���u�@�N�Ѭ_���������C" data-reactid="21">&nbsp;</p>
-<p type="text" content="�쥻£�͹�N�v���Y���P�B�s�o�ءB�_�������m��ҡn�t���s�X�u���g���|�檺�ȤӼv�i�A�þ���{���H�A�p���X�F���סA�ȤӼv�i�ƥD�u����H���ܡA£�͹窺�{���u�@�N�Ѭ_���������C" data-reactid="21">&nbsp;</p>
-<p type="text" content="�쥻£�͹�N�v���Y���P�B�s�o�ءB�_�������m��ҡn�t���s�X�u���g���|�檺�ȤӼv�i�A�þ���{���H�A�p���X�F���סA�ȤӼv�i�ƥD�u����H���ܡA£�͹窺�{���u�@�N�Ѭ_���������C" data-reactid="21">&nbsp;</p>
-<p type="text" content="�쥻£�͹�N�v���Y���P�B�s�o�ءB�_�������m��ҡn�t���s�X�u���g���|�檺�ȤӼv�i�A�þ���{���H�A�p���X�F���סA�ȤӼv�i�ƥD�u����H���ܡA£�͹窺�{���u�@�N�Ѭ_���������C" data-reactid="21">&nbsp;</p>
-<p type="text" content="�쥻£�͹�N�v���Y���P�B�s�o�ءB�_�������m��ҡn�t���s�X�u���g���|�檺�ȤӼv�i�A�þ���{���H�A�p���X�F���סA�ȤӼv�i�ƥD�u����H���ܡA£�͹窺�{���u�@�N�Ѭ_���������C" data-reactid="21">&nbsp;</p>
-<p type="text" content="�쥻£�͹�N�v���Y���P�B�s�o�ءB�_�������m��ҡn�t���s�X�u���g���|�檺�ȤӼv�i�A�þ���{���H�A�p���X�F���סA�ȤӼv�i�ƥD�u����H���ܡA£�͹窺�{���u�@�N�Ѭ_���������C" data-reactid="21">&nbsp;</p>
-<p type="text" content="�쥻£�͹�N�v���Y���P�B�s�o�ءB�_�������m��ҡn�t���s�X�u���g���|�檺�ȤӼv�i�A�þ���{���H�A�p���X�F���סA�ȤӼv�i�ƥD�u����H���ܡA£�͹窺�{���u�@�N�Ѭ_���������C" data-reactid="21">&nbsp;</p>
-<p type="text" content="�쥻£�͹�N�v���Y���P�B�s�o�ءB�_�������m��ҡn�t���s�X�u���g���|�檺�ȤӼv�i�A�þ���{���H�A�p���X�F���סA�ȤӼv�i�ƥD�u����H���ܡA£�͹窺�{���u�@�N�Ѭ_���������C" data-reactid="21">&nbsp;</p>
-<p type="text" content="�쥻£�͹�N�v���Y���P�B�s�o�ءB�_�������m��ҡn�t���s�X�u���g���|�檺�ȤӼv�i�A�þ���{���H�A�p���X�F���סA�ȤӼv�i�ƥD�u����H���ܡA£�͹窺�{���u�@�N�Ѭ_���������C" data-reactid="21">&nbsp;</p>
-<p type="text" content="�쥻£�͹�N�v���Y���P�B�s�o�ءB�_�������m��ҡn�t���s�X�u���g���|�檺�ȤӼv�i�A�þ���{���H�A�p���X�F���סA�ȤӼv�i�ƥD�u����H���ܡA£�͹窺�{���u�@�N�Ѭ_���������C" data-reactid="21">&nbsp;</p>
-<p type="text" content="�쥻£�͹�N�v���Y���P�B�s�o�ءB�_�������m��ҡn�t���s�X�u���g���|�檺�ȤӼv�i�A�þ���{���H�A�p���X�F���סA�ȤӼv�i�ƥD�u����H���ܡA£�͹窺�{���u�@�N�Ѭ_���������C" data-reactid="21">&nbsp;</p>
-<p type="text" content="�쥻£�͹�N�v���Y���P�B�s�o�ءB�_�������m��ҡn�t���s�X�u���g���|�檺�ȤӼv�i�A�þ���{���H�A�p���X�F���סA�ȤӼv�i�ƥD�u����H���ܡA£�͹窺�{���u�@�N�Ѭ_���������C" data-reactid="21">&nbsp;</p>
-<p type="text" content="�쥻£�͹�N�v���Y���P�B�s�o�ءB�_�������m��ҡn�t���s�X�u���g���|�檺�ȤӼv�i�A�þ���{���H�A�p���X�F���סA�ȤӼv�i�ƥD�u����H���ܡA£�͹窺�{���u�@�N�Ѭ_���������C" data-reactid="21">&nbsp;</p>
-<p type="text" content="�쥻£�͹�N�v���Y���P�B�s�o�ءB�_�������m��ҡn�t���s�X�u���g���|�檺�ȤӼv�i�A�þ���{���H�A�p���X�F���סA�ȤӼv�i�ƥD�u����H���ܡA£�͹窺�{���u�@�N�Ѭ_���������C" data-reactid="21">&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p><span id="news2"></span>豪雨轟炸南台灣，雨就像倒水一般，各地傳出淹水災情，不過高雄市政府(27日)清晨宣布，由於依中央氣象局資料顯示，高雄市未達停班課標準，宣布正常上班上課，還呼籲「市民朋友保持警戒」，讓當地網友氣炸了，灌爆代理市長許立明臉書，卻發現許立明原本發的文章「刪文了」，讓網友傻眼「先不要管放假，你先說刪文是什麼狀況？」</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p><span id="news3"></span>曾執導《惡作劇之吻》《我可能不會愛你》等偶像劇，去年又憑《花甲男孩轉大人》締造話題旋風，在影視圈有「維尼熊」外號的導演瞿友寧，驚傳24日在馬祖發生車禍。由於他傷勢不輕，原本要為本屆亞太影展擔任頒獎人，如今已由柯叔元頂替。曾執導《惡作劇之吻》《我可能不會愛你》等偶像劇，去年又憑《花甲男孩轉大人》締造話題旋風，在影視圈有「維尼熊」外號的導演瞿友寧，驚傳24日在馬祖發生車禍。由於他傷勢不輕，原本要為本屆亞太影展擔任頒獎人，如今已由柯叔元頂替。</p>
+<p>瞿友寧24日晚間應邀在馬祖舉行「聽說馬祖2018人文講座」，由於日前馬祖天候不佳，他騎機車不幸打滑摔倒，傷及肩膀，暫時也無法走路，必須在家休養。" 瞿友寧24日晚間應邀在馬祖舉行「聽說馬祖2018人文講座」，由於日前馬祖天候不佳，他騎機車不幸打滑摔倒，傷及肩膀，暫時也無法走路，必須在家休養。</p>
+<p type="text" content="去年電視劇《花甲男孩轉大人》大紅，瞿友寧順勢召集原班人馬開拍電影版《花甲大人轉男孩》，在賀歲檔期拿下破億票房。" data-reactid="20">去年電視劇《花甲男孩轉大人》大紅，瞿友寧順勢召集原班人馬開拍電影版《花甲大人轉男孩》，在賀歲檔期拿下破億票房。</p>
+<p type="text" content="原本瞿友寧將率領嚴正嵐、龍劭華、柯叔元等《花甲》演員群出席本週六舉行的亞太影展，並擔任頒獎人，如今出了車禍，亞太影展副主席葛樹人表示，瞿友寧的頒獎工作將由柯叔元頂替。" data-reactid="21">原本瞿友寧將率領嚴正嵐、龍劭華、柯叔元等《花甲》演員群出席本週六舉行的亞太影展，並擔任頒獎人，如今出了車禍，亞太影展副主席葛樹人表示，瞿友寧的頒獎工作將由柯叔元頂替。</p>
+<p type="text" content="原本瞿友寧將率領嚴正嵐、龍劭華、柯叔元等《花甲》演員群出席本週六舉行的亞太影展，並擔任頒獎人，如今出了車禍，亞太影展副主席葛樹人表示，瞿友寧的頒獎工作將由柯叔元頂替。" data-reactid="21">&nbsp;</p>
+<p type="text" content="原本瞿友寧將率領嚴正嵐、龍劭華、柯叔元等《花甲》演員群出席本週六舉行的亞太影展，並擔任頒獎人，如今出了車禍，亞太影展副主席葛樹人表示，瞿友寧的頒獎工作將由柯叔元頂替。" data-reactid="21">&nbsp;</p>
+<p type="text" content="原本瞿友寧將率領嚴正嵐、龍劭華、柯叔元等《花甲》演員群出席本週六舉行的亞太影展，並擔任頒獎人，如今出了車禍，亞太影展副主席葛樹人表示，瞿友寧的頒獎工作將由柯叔元頂替。" data-reactid="21">&nbsp;</p>
+<p type="text" content="原本瞿友寧將率領嚴正嵐、龍劭華、柯叔元等《花甲》演員群出席本週六舉行的亞太影展，並擔任頒獎人，如今出了車禍，亞太影展副主席葛樹人表示，瞿友寧的頒獎工作將由柯叔元頂替。" data-reactid="21">&nbsp;</p>
+<p type="text" content="原本瞿友寧將率領嚴正嵐、龍劭華、柯叔元等《花甲》演員群出席本週六舉行的亞太影展，並擔任頒獎人，如今出了車禍，亞太影展副主席葛樹人表示，瞿友寧的頒獎工作將由柯叔元頂替。" data-reactid="21">&nbsp;</p>
+<p type="text" content="原本瞿友寧將率領嚴正嵐、龍劭華、柯叔元等《花甲》演員群出席本週六舉行的亞太影展，並擔任頒獎人，如今出了車禍，亞太影展副主席葛樹人表示，瞿友寧的頒獎工作將由柯叔元頂替。" data-reactid="21">&nbsp;</p>
+<p type="text" content="原本瞿友寧將率領嚴正嵐、龍劭華、柯叔元等《花甲》演員群出席本週六舉行的亞太影展，並擔任頒獎人，如今出了車禍，亞太影展副主席葛樹人表示，瞿友寧的頒獎工作將由柯叔元頂替。" data-reactid="21">&nbsp;</p>
+<p type="text" content="原本瞿友寧將率領嚴正嵐、龍劭華、柯叔元等《花甲》演員群出席本週六舉行的亞太影展，並擔任頒獎人，如今出了車禍，亞太影展副主席葛樹人表示，瞿友寧的頒獎工作將由柯叔元頂替。" data-reactid="21">&nbsp;</p>
+<p type="text" content="原本瞿友寧將率領嚴正嵐、龍劭華、柯叔元等《花甲》演員群出席本週六舉行的亞太影展，並擔任頒獎人，如今出了車禍，亞太影展副主席葛樹人表示，瞿友寧的頒獎工作將由柯叔元頂替。" data-reactid="21">&nbsp;</p>
+<p type="text" content="原本瞿友寧將率領嚴正嵐、龍劭華、柯叔元等《花甲》演員群出席本週六舉行的亞太影展，並擔任頒獎人，如今出了車禍，亞太影展副主席葛樹人表示，瞿友寧的頒獎工作將由柯叔元頂替。" data-reactid="21">&nbsp;</p>
+<p type="text" content="原本瞿友寧將率領嚴正嵐、龍劭華、柯叔元等《花甲》演員群出席本週六舉行的亞太影展，並擔任頒獎人，如今出了車禍，亞太影展副主席葛樹人表示，瞿友寧的頒獎工作將由柯叔元頂替。" data-reactid="21">&nbsp;</p>
+<p type="text" content="原本瞿友寧將率領嚴正嵐、龍劭華、柯叔元等《花甲》演員群出席本週六舉行的亞太影展，並擔任頒獎人，如今出了車禍，亞太影展副主席葛樹人表示，瞿友寧的頒獎工作將由柯叔元頂替。" data-reactid="21">&nbsp;</p>
+<p type="text" content="原本瞿友寧將率領嚴正嵐、龍劭華、柯叔元等《花甲》演員群出席本週六舉行的亞太影展，並擔任頒獎人，如今出了車禍，亞太影展副主席葛樹人表示，瞿友寧的頒獎工作將由柯叔元頂替。" data-reactid="21">&nbsp;</p>
+<p type="text" content="原本瞿友寧將率領嚴正嵐、龍劭華、柯叔元等《花甲》演員群出席本週六舉行的亞太影展，並擔任頒獎人，如今出了車禍，亞太影展副主席葛樹人表示，瞿友寧的頒獎工作將由柯叔元頂替。" data-reactid="21">&nbsp;</p>
+<p type="text" content="原本瞿友寧將率領嚴正嵐、龍劭華、柯叔元等《花甲》演員群出席本週六舉行的亞太影展，並擔任頒獎人，如今出了車禍，亞太影展副主席葛樹人表示，瞿友寧的頒獎工作將由柯叔元頂替。" data-reactid="21">&nbsp;</p>
+<p type="text" content="原本瞿友寧將率領嚴正嵐、龍劭華、柯叔元等《花甲》演員群出席本週六舉行的亞太影展，並擔任頒獎人，如今出了車禍，亞太影展副主席葛樹人表示，瞿友寧的頒獎工作將由柯叔元頂替。" data-reactid="21">&nbsp;</p>
+<p type="text" content="原本瞿友寧將率領嚴正嵐、龍劭華、柯叔元等《花甲》演員群出席本週六舉行的亞太影展，並擔任頒獎人，如今出了車禍，亞太影展副主席葛樹人表示，瞿友寧的頒獎工作將由柯叔元頂替。" data-reactid="21">&nbsp;</p>
+<p type="text" content="原本瞿友寧將率領嚴正嵐、龍劭華、柯叔元等《花甲》演員群出席本週六舉行的亞太影展，並擔任頒獎人，如今出了車禍，亞太影展副主席葛樹人表示，瞿友寧的頒獎工作將由柯叔元頂替。" data-reactid="21">&nbsp;</p>
 <p>&nbsp;</p>
 </body>
 </html>

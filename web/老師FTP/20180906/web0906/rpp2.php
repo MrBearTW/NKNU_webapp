@@ -12,7 +12,7 @@ if(is_readable($filename)){
 <html>
 <head>
 <meta charset="utf-8">
-<title>µL¼ÐÃD¤å¥ó</title>
+<title>ç„¡æ¨™é¡Œæ–‡ä»¶</title>
 </head>
 
 <body>

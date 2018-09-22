@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta charset="utf-8">
-<title>µL¼ÐÃD¤å¥ó</title>
+<title>ç„¡æ¨™é¡Œæ–‡ä»¶</title>
 </head>
 
 <body>
@@ -12,11 +12,11 @@
   <?php
   /*
 $filename=fopen("txt0906.txt","w+");
-fwrite($filename,"¼g¤£¶i¥h´NGG¤F¡I¡I");
-fwrite($filename,"¼g¤£¶i¥h´NGG¤F¡I¡I");
-fwrite($filename,"¼g¤£¶i¥h´NGG¤F¡I¡I");
-fwrite($filename,"¼g¤£¶i¥h´NGG¤F¡I¡I");
-fwrite($filename,"¼g¤£¶i¥h´NGG¤F¡I¡I");
+fwrite($filename,"å¯«ä¸é€²åŽ»å°±GGäº†ï¼ï¼");
+fwrite($filename,"å¯«ä¸é€²åŽ»å°±GGäº†ï¼ï¼");
+fwrite($filename,"å¯«ä¸é€²åŽ»å°±GGäº†ï¼ï¼");
+fwrite($filename,"å¯«ä¸é€²åŽ»å°±GGäº†ï¼ï¼");
+fwrite($filename,"å¯«ä¸é€²åŽ»å°±GGäº†ï¼ï¼");
 readfile("txt0906.txt");
 
 */
