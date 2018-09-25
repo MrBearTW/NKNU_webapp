@@ -44,7 +44,9 @@ https://www.taiwanjobs.gov.tw/Internet/index/CourseQuery_detail.aspx?History=His
 9/14 Java-Interface JSP
 9/15 Android-Ch6,7      教室 Adobe APPuser 密碼nknu
 9/16 週日  
-9/17  
+9/17 Windows Server 安裝 Ab12345%  
+
+9/25 PHP+MySQL 新增資料到資料庫中
 
 請假紀錄3hr
   
