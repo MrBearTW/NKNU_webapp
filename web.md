@@ -193,6 +193,8 @@ https://www.books.com.tw/products/0010311883
 
 ### 新增一個網站
 1.改Xampp控制台Apache的config的`root的路徑`  
+`DocumentRoot "C:/Users/APP User/Documents/github/nknuapp/web/php0925"`
+`<Directory "C:/Users/APP User/Documents/github/nknuapp/web/php0925">`
 2.改Dreamweaver設定  
 網站管理>伺服器  
 伺服器名稱：`xampp(自訂)`  
@@ -361,24 +363,28 @@ varchar 1 <<是字數
 
 改my.ini
 # enable-named-pipe
-key_buffer = 16M
-max_allowed_packet = 10M
-sort_buffer_size = 512K
-net_buffer_length = 8K
-read_buffer_size = 8192K
-read_rnd_buffer_size = 512K
-myisam_sort_buffer_size = 64M
-log_error = "mysql_error.log"
+key_buffer = 16M  
+max_allowed_packet = 10M 
+sort_buffer_size = 512K  
+net_buffer_length = 8K  
+read_buffer_size = 8192K  
+read_rnd_buffer_size = 512K  
+myisam_sort_buffer_size = 64M  
+log_error = "mysql_error.log"  
 
 
 
 ABS()絕對值  
-ROUND([值],位數)四捨五入
+ROUND([值],位數)四捨五入  
 
 # 2018/09/20
 
 
-Javay在一個陣列內不可以放入不一樣的格式
+Java在一個陣列內不可以放入不一樣的格式  
 
-有序陣列參照
-有值陣列參照
+有序陣列參照  
+有值陣列參照  
+
+#2018/09/26
+
+add.php 插入隱藏欄位  

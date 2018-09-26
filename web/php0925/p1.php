@@ -40,11 +40,13 @@ $total_rec=mysql_num_rows($result);
     echo "<td>".$row_result["st_email"]."</td>";
     echo "<td>".$row_result["st_tel"]."</td>";
     echo "<td>".$row_result["st_addr"]."</td>";
-    echo "<td>
-			<a href='update.php'>修改</a> 
-			<a href='delete.php'>刪除</a>
-		  </td>";
+	
+    echo "<td><a href='update.php?id=".$row_result["st_id"]."'>修改</a>";
+    echo "<a href='delete.php?id=".$row_result["st_id"]."'>刪除</a></td>";
+		  
     echo "</tr>";
+	
+	
   }
   ?>
 </table>
