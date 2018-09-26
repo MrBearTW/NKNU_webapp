@@ -1,0 +1,50 @@
+body, p, a, td, th, input, textarea, select, option, .control-label {
+	font-family: "微軟正黑體", 'Open Sans', sans-serif;
+	font-size: 16px;
+}
+.panel-green > .panel-heading {
+    color: #468847;
+    background-color: #B4CD3C;
+    border-color: #d6e9c6;
+}
+.panel-green > ul.list-group a {
+    font-size:0.95em;
+    color: #4C4C4C;
+}
+.panel-green > ul.list-group a:hover {
+    color: #B6CE41;
+}
+
+.p-l-sm > a, .p-r-sm > a{
+    background-color: #B4CD3C;
+    font-size:0.95em;
+    color:#4C4C4C;
+    padding-left: 0;
+    padding-right: 0;
+}
+.m-h-sm a:hover{
+    background-color: #C5E041;
+}
+.container > .modules {
+    border-top: #23A1D1 5px solid;
+}
+
+@media (min-width: 768px) {
+    .m-h-sm {
+        margin:10px 0;
+    }
+    .p-l-sm {
+        padding-left: 0;
+    }
+    .p-r-sm {
+        padding-right: 0;
+    }
+}
+@media (max-width: 767px) {
+    .p-l-sm {
+        margin: 10px 0;
+    }
+    .p-r-sm {
+        margin: 10px 0;
+    }
+}
