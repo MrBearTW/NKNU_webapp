@@ -44,7 +44,6 @@ if(!isset($_SESSION["membername"]) || $_SESSION["membername"]==""){
 <body>
 <?php
 if(!isset($_SESSION["membername"])||($_SESSION["membername"]=="")){
-	
 ?>
 <form name="form1" method="post" action="">
   <table width="400" border="1" align="center">
@@ -64,10 +63,10 @@ if(!isset($_SESSION["membername"])||($_SESSION["membername"]=="")){
     </tr>
   </table>
 </form>
+
 <?php
 }else{
 ?>
-
 
 <table width="400" border="1" align="center">
   <tr>
