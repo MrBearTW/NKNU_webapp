@@ -1,0 +1,15 @@
+Tomcat 佈署路徑 (以web4 為例)
+
+Tomcat home directory
+        webapps
+                 web4 => web content (JSP, HTML)
+                        WEB-INF
+                                 classes => byte codes, binary files
+                                 lib => jar files
+
+
+顯示 web4/login.html => http://127.0.0.1:8080/web4/login.html
+
+
+設定環境變數
+JAVA_HOME => C:\Program Files\Java\jdk-10.0.2

@@ -356,3 +356,37 @@ synchronized  針對物件
 %s %S 字串格式符號  
 %c 字元  
 %b 布林  
+
+
+#2018/09/29
+
+ch5使用案例圖
+ch7活動圖
+ch8類別圖
+ch11互動圖
+
+
+##### 需要檔案
+wbe4  
+servlet-api-3.0.20090124  
+apache-tomcat-8.5.33  
+lib.sql  
+
+### 建立web4
+eclipse Import > Existing Project into Workspace >選放web4的地方 > 下方copy projects into workspace  
+### 建立servlet路徑
+Project > Properties > Java Build Path > Add External JARs > 選到放servlet的地方  
+### 設定Tomcat
+選WebContent > login.html > 右鍵 > Run as > Run On Server >
+第一次用要選擇Tomcat版本，然後選擇實體放置Tomcat位置  
+理想上要看到登入網頁畫面  
+### 設定資料庫
+用MySQL建立lib.sql  
+
+
+
+設計樣式與實作.pptx 第九頁  
+ModelWeb4.java = Model  
+ServWeb4.java = Controller(Servlet)  
+
+JSP的檔案經過TomCat處理後變成HTML  

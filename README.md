@@ -54,6 +54,9 @@ https://www.taiwanjobs.gov.tw/Internet/index/CourseQuery_detail.aspx?History=His
 9/24
 9/25 PHP+MySQL 新增資料到資料庫中
 9/26 
+9/27 
+9/28 PHP-
+9/29 Java-UML結束，MVC架構，網站佈署  
 
 請假紀錄3hr
   
