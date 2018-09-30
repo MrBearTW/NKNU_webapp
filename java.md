@@ -367,9 +367,9 @@ ch11互動圖
 
 
 ##### 需要檔案
-wbe4  
-servlet-api-3.0.20090124  
-apache-tomcat-8.5.33  
+wbe4資料夾  
+servlet-api-3.0.20090124.jar  
+apache-tomcat-8.5.33資料夾  
 lib.sql  
 
 ### 建立web4
@@ -384,9 +384,27 @@ Project > Properties > Java Build Path > Add External JARs > 選到放servlet的
 用MySQL建立lib.sql  
 
 
-
+##概念
 設計樣式與實作.pptx 第九頁  
 ModelWeb4.java = Model  
 ServWeb4.java = Controller(Servlet)  
 
-JSP的檔案經過TomCat處理後變成HTML  
+JSP的檔案經過Tomcat處理後變成HTML  
+
+## 部屬成網路服務
+選好放置Tomcat的位置  
+進入webapps在和root同一層的位置建立資料夾(web4)  
+進入web4，將eclipse開發案中的\web4\WebContent的JSP,HTML等檔案複製一份過來  
+在web4建立資料夾WEB-INF  
+進入WEB-INF，建立classes和lib資料夾  
+進入classes將eclipse\web4\build\classes中的.class檔案複製一份過來  
+若有其他jar檔案則複製一份到lib中  
+  
+若之前沒有設定過JAVA_HOME則進入系統環境中加入`C:\Program Files\Java\jdk-10.0.2`  
+  
+啟動Tomcat
+進入apache-tomcat-8.5.33\bin
+執行startup.bat  
+
+理論上開瀏覽器進入`http://127.0.0.1:8080/web4/login.html`就可以看到網頁了  
+

@@ -1,15 +1,15 @@
-Tomcat §G¸p¸ô®| (¥Hweb4 ¬°¨Ò)
+Tomcat ä½ˆç½²è·¯å¾‘ (ä»¥web4 ç‚ºä¾‹)
 
 Tomcat home directory
         webapps
                  web4 => web content (JSP, HTML)
-                        WEB-INF
+                         WEB-INF
                                  classes => byte codes, binary files
                                  lib => jar files
 
 
-Åã¥Ü web4/login.html => http://127.0.0.1:8080/web4/login.html
+é¡¯ç¤º web4/login.html => http://127.0.0.1:8080/web4/login.html
 
 
-³]©wÀô¹ÒÅÜ¼Æ
+è¨­å®šç’°å¢ƒè®Šæ•¸
 JAVA_HOME => C:\Program Files\Java\jdk-10.0.2

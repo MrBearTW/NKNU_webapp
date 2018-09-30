@@ -1,20 +1,20 @@
 <?php 
 
 
-if(isset($_POST["action"])&&($_POST["action"]=="add")){
-require_once("Connection\MyConn.php");
+if (isset($_POST["action"]) && ($_POST["action"] == "add")) {
+  require_once("Connection\MyConn.php");
 
-$link_db=mysql_select_db("school");
-if(!$link_db) die("資料庫連線失敗！！");
+  $link_db = mysql_select_db("school");
+  if (!$link_db) die("資料庫連線失敗！！");
 
-$sql_query="INSERT INTO `student`(`st_id`,`st_na`,`st_gender`,`st_email`,`st_tel`,`st_addr`)values(";
-$sql_query.="'".@$_POST["st_id"]."',";
-$sql_query.="'".@$_POST["st_na"]."',";
-$sql_query.="'".@$_POST["st_gender"]."',";
-$sql_query.="'".@$_POST["st_email"]."',";
-$sql_query.="'".@$_POST["st_tel"]."',";
-$sql_query.="'".@$_POST["st_addr"]."')";
-$result=mysql_query($sql_query);
+  $sql_query = "INSERT INTO `student`(`st_id`,`st_na`,`st_gender`,`st_email`,`st_tel`,`st_addr`)values(";
+  $sql_query .= "'" . @$_POST["st_id"] . "',";
+  $sql_query .= "'" . @$_POST["st_na"] . "',";
+  $sql_query .= "'" . @$_POST["st_gender"] . "',";
+  $sql_query .= "'" . @$_POST["st_email"] . "',";
+  $sql_query .= "'" . @$_POST["st_tel"] . "',";
+  $sql_query .= "'" . @$_POST["st_addr"] . "')";
+  $result = mysql_query($sql_query);
 
 //header("Location:p1.php");
 }

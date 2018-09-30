@@ -416,3 +416,55 @@ Caused by: java.net.BindException: Address already in use: bind
 29-Sep-2018 17:47:04.009 資訊 [main] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8080"]
 29-Sep-2018 17:47:04.010 資訊 [main] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["ajp-nio-8009"]
 29-Sep-2018 17:47:04.011 資訊 [main] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["ajp-nio-8009"]
+29-Sep-2018 19:29:47.085 資訊 [main] org.apache.catalina.startup.VersionLoggerListener.log Server version:        Apache Tomcat/8.5.33
+29-Sep-2018 19:29:47.109 資訊 [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Aug 12 2018 08:20:08 UTC
+29-Sep-2018 19:29:47.110 資訊 [main] org.apache.catalina.startup.VersionLoggerListener.log Server number:         8.5.33.0
+29-Sep-2018 19:29:47.110 資訊 [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 10
+29-Sep-2018 19:29:47.110 資訊 [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.0
+29-Sep-2018 19:29:47.110 資訊 [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+29-Sep-2018 19:29:47.110 資訊 [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             C:\bigdata\jdk\jre
+29-Sep-2018 19:29:47.111 資訊 [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           1.8.0_77-b03
+29-Sep-2018 19:29:47.111 資訊 [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+29-Sep-2018 19:29:47.111 資訊 [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         C:\Users\user\Documents\GitHub\NKNU_webapp\java\apache-tomcat-8.5.33
+29-Sep-2018 19:29:47.111 資訊 [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         C:\Users\user\Documents\GitHub\NKNU_webapp\java\apache-tomcat-8.5.33
+29-Sep-2018 19:29:47.111 資訊 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=C:\Users\user\Documents\GitHub\NKNU_webapp\java\apache-tomcat-8.5.33\conf\logging.properties
+29-Sep-2018 19:29:47.111 資訊 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+29-Sep-2018 19:29:47.111 資訊 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+29-Sep-2018 19:29:47.112 資訊 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+29-Sep-2018 19:29:47.112 資訊 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dignore.endorsed.dirs=
+29-Sep-2018 19:29:47.112 資訊 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=C:\Users\user\Documents\GitHub\NKNU_webapp\java\apache-tomcat-8.5.33
+29-Sep-2018 19:29:47.114 資訊 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=C:\Users\user\Documents\GitHub\NKNU_webapp\java\apache-tomcat-8.5.33
+29-Sep-2018 19:29:47.116 資訊 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=C:\Users\user\Documents\GitHub\NKNU_webapp\java\apache-tomcat-8.5.33\temp
+29-Sep-2018 19:29:47.118 資訊 [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent Loaded APR based Apache Tomcat Native library [1.2.17] using APR version [1.6.3].
+29-Sep-2018 19:29:47.118 資訊 [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+29-Sep-2018 19:29:47.118 資訊 [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+29-Sep-2018 19:29:48.022 資訊 [main] org.apache.catalina.core.AprLifecycleListener.initializeSSL OpenSSL successfully initialized [OpenSSL 1.0.2o  27 Mar 2018]
+29-Sep-2018 19:29:49.127 資訊 [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+29-Sep-2018 19:29:49.281 資訊 [main] org.apache.tomcat.util.net.NioSelectorPool.getSharedSelector Using a shared selector for servlet write/read
+29-Sep-2018 19:29:49.291 資訊 [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["ajp-nio-8009"]
+29-Sep-2018 19:29:49.298 資訊 [main] org.apache.tomcat.util.net.NioSelectorPool.getSharedSelector Using a shared selector for servlet write/read
+29-Sep-2018 19:29:49.300 資訊 [main] org.apache.catalina.startup.Catalina.load Initialization processed in 2936 ms
+29-Sep-2018 19:29:49.354 資訊 [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+29-Sep-2018 19:29:49.354 資訊 [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet Engine: Apache Tomcat/8.5.33
+29-Sep-2018 19:29:49.369 資訊 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\user\Documents\GitHub\NKNU_webapp\java\apache-tomcat-8.5.33\webapps\docs]
+29-Sep-2018 19:29:50.023 資訊 [localhost-startStop-1] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+29-Sep-2018 19:29:50.266 警告 [localhost-startStop-1] org.apache.catalina.util.SessionIdGeneratorBase.createSecureRandom Creation of SecureRandom instance for session ID generation using [SHA1PRNG] took [201] milliseconds.
+29-Sep-2018 19:29:50.316 資訊 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\user\Documents\GitHub\NKNU_webapp\java\apache-tomcat-8.5.33\webapps\docs] has finished in [947] ms
+29-Sep-2018 19:29:50.317 資訊 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\user\Documents\GitHub\NKNU_webapp\java\apache-tomcat-8.5.33\webapps\examples]
+29-Sep-2018 19:29:51.590 資訊 [localhost-startStop-1] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+29-Sep-2018 19:29:51.669 資訊 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\user\Documents\GitHub\NKNU_webapp\java\apache-tomcat-8.5.33\webapps\examples] has finished in [1,352] ms
+29-Sep-2018 19:29:51.679 資訊 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\user\Documents\GitHub\NKNU_webapp\java\apache-tomcat-8.5.33\webapps\host-manager]
+29-Sep-2018 19:29:51.835 資訊 [localhost-startStop-1] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+29-Sep-2018 19:29:51.839 資訊 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\user\Documents\GitHub\NKNU_webapp\java\apache-tomcat-8.5.33\webapps\host-manager] has finished in [170] ms
+29-Sep-2018 19:29:51.839 資訊 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\user\Documents\GitHub\NKNU_webapp\java\apache-tomcat-8.5.33\webapps\manager]
+29-Sep-2018 19:29:52.022 資訊 [localhost-startStop-1] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+29-Sep-2018 19:29:52.025 資訊 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\user\Documents\GitHub\NKNU_webapp\java\apache-tomcat-8.5.33\webapps\manager] has finished in [186] ms
+29-Sep-2018 19:29:52.026 資訊 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\user\Documents\GitHub\NKNU_webapp\java\apache-tomcat-8.5.33\webapps\ROOT]
+29-Sep-2018 19:29:52.175 資訊 [localhost-startStop-1] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+29-Sep-2018 19:29:52.176 資訊 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\user\Documents\GitHub\NKNU_webapp\java\apache-tomcat-8.5.33\webapps\ROOT] has finished in [150] ms
+29-Sep-2018 19:29:52.177 資訊 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\user\Documents\GitHub\NKNU_webapp\java\apache-tomcat-8.5.33\webapps\web4]
+29-Sep-2018 19:29:52.332 資訊 [localhost-startStop-1] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+29-Sep-2018 19:29:52.339 資訊 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\user\Documents\GitHub\NKNU_webapp\java\apache-tomcat-8.5.33\webapps\web4] has finished in [162] ms
+29-Sep-2018 19:29:52.346 資訊 [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+29-Sep-2018 19:29:52.357 資訊 [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["ajp-nio-8009"]
+29-Sep-2018 19:29:52.360 資訊 [main] org.apache.catalina.startup.Catalina.start Server startup in 3058 ms

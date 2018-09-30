@@ -2,25 +2,25 @@
 
 require_once("Connection\MyConn.php");
 
-$link_db=mysql_select_db("school");
-if(!$link_db) die("資料庫連線失敗！！");
+$link_db = mysql_select_db("school");
+if (!$link_db) die("資料庫連線失敗！！");
 
 
-if(isset($_POST["action"])&&($_POST["action"]=="delete")){
+if (isset($_POST["action"]) && ($_POST["action"] == "delete")) {
 
-$sql_query="DELETE FROM `student` WHERE `st_id`='".$_POST["st_id"]."'";
+  $sql_query = "DELETE FROM `student` WHERE `st_id`='" . $_POST["st_id"] . "'";
 
-mysql_query($sql_query);
+  mysql_query($sql_query);
 
-header("Location:p1.php");
+  header("Location:p1.php");
 
 }
 
 
 
-$sql_data="SELECT * FROM `student` WHERE `st_id`='".$_GET["id"]."'";
-$result=mysql_query($sql_data);
-$row_result=mysql_fetch_assoc($result);
+$sql_data = "SELECT * FROM `student` WHERE `st_id`='" . $_GET["id"] . "'";
+$result = mysql_query($sql_data);
+$row_result = mysql_fetch_assoc($result);
 
 
 ?>
