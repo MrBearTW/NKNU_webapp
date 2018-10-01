@@ -44,7 +44,7 @@ https://www.taiwanjobs.gov.tw/Internet/index/CourseQuery_detail.aspx?History=His
 9/14 Java-Interface JSP
 9/15 Android-Ch6,7      教室 Adobe APPuser 密碼nknu
 9/16 週日  
-9/17 Windows Server 安裝 Ab12345%  
+9/17 WindowsServer-安裝 Ab12345%  
 9/18 專題第一次報告與老師點評   
 9/19 Java-JSP 
 9/20 PHP-連線到資料庫   
@@ -58,7 +58,8 @@ https://www.taiwanjobs.gov.tw/Internet/index/CourseQuery_detail.aspx?History=His
 9/28 PHP+MySQL-修改資料，資料庫正規化  
 9/29 Java-UML結束，MVC架構，網站佈署  
 9/30 週日  
-10/1  
+10/1 WindowsServer-安裝DNS PHP MySQL  
+10/2 
 
 請假紀錄3hr
   
