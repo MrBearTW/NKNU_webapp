@@ -396,3 +396,64 @@ php操作刪修
 
 #2018/09/28
 正規化
+
+
+# 2018/10/03
+server    >   DB    >   table   >   fetch
+host         useDB      select      array
+username                            num_rows
+pwd
+
+### JAVA架構
+#### conscel
+#### form
+swing  
+awt  
+cpanel  
+
+serverlet
+JSP
+
+## 
+http://www.sanmin.com.tw/Product/index/000506696
+物件導向程式分析與設計（附光碟）  
+ISBN13：9789867138880  
+出版社：THOMSON  
+作者：張世敏 譯  
+
+海大 吳宗杉老師
+
+流程圖一定有箭頭
+
+
+#JAVA
+宣告變數沒有初始化  不能輸出  會erro
+
+## UML
+CLASS -1. attribute(屬性，不是變數) 2. method
+
+## 邏輯模型
+階層化  
+順序優先  
+
+## MVC
+## 泛型
+
+List <Book> books = (List<Book>) session.getAttribute("books");
+
+同時擁有List和<Book>的屬性  
+產生的值直接給session  
+去除會有導致無法繼承的問題  
+  
+Array 一開始就給
+List無上限
+arraylist
+linklist有頭尾
+  
+hash  
+  
+執行泛型時會觸發多執行序  
+  
+java keybord event  
+  
+陳宗興 mvc  
