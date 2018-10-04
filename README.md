@@ -60,7 +60,10 @@ https://www.taiwanjobs.gov.tw/Internet/index/CourseQuery_detail.aspx?History=His
 9/30 週日  
 10/1 WindowsServer-安裝DNS PHP MySQL  
 10/2 WindowsServer-設定IP Port Name架站，安裝Joomla
-10/3 DFD流程圖 
+10/3 DFD流程圖  
+10/4 Android-ch8 9 10  
+10/5 
+
 
 請假紀錄3hr
   
