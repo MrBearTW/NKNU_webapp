@@ -62,8 +62,8 @@ https://www.taiwanjobs.gov.tw/Internet/index/CourseQuery_detail.aspx?History=His
 10/2 WindowsServer-設定IP Port Name架站，安裝Joomla
 10/3 DFD流程圖  
 10/4 Android-ch8 9 10  
-10/5 
-
+10/5 上午-性評教育 下午-網路安全  
+10/6
 
 請假紀錄3hr
   
