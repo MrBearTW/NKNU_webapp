@@ -63,8 +63,9 @@ https://www.taiwanjobs.gov.tw/Internet/index/CourseQuery_detail.aspx?History=His
 10/3 DFD流程圖  
 10/4 Android-ch8 9 10  
 10/5 上午-性評教育 下午-網路安全  
-10/6
-
+10/6 Android-  
+10/7 週日  
+10/8 勞動法規- WindowsServer-架設郵件伺服器  
 請假紀錄3hr
   
   
