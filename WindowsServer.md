@@ -37,3 +37,10 @@ ClamAV LINUX ClamWIN Windows
 A 8 255 0 0 0
 B 16 255 255 0 0 
 C 24 255 255 255 0
+
+##
+裝PHP之前要先裝VC++  
+確認有PHP.ini  
+修正TEMP路徑  
+
+處理常式路徑設定
