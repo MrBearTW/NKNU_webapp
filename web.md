@@ -459,3 +459,13 @@ java keybord event
 陳宗興 mvc  
 
 # 2018/10/04 
+# 2018/10/11
+購物車三大家
+WooCommerce(Wordpress)
+OScommerce(Jommla)
+OpenCart()
+
+
+# 改PHP.ini
+max_execution_time=120
+memory_limit=512M

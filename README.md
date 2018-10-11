@@ -42,7 +42,7 @@ https://www.taiwanjobs.gov.tw/Internet/index/CourseQuery_detail.aspx?History=His
 9/12 Java-封裝，Abstract Android-Ch5  
 9/13 Android-Ch5,Ch6  
 9/14 Java-Interface JSP
-9/15 Android-Ch6,7      教室 Adobe APPuser 密碼nknu
+9/15 Android-Ch6,7      教室 選Adobe APPuser 密碼nknu
 9/16 週日  
 9/17 WindowsServer-安裝 Ab12345%  
 9/18 專題第一次報告與老師點評   
