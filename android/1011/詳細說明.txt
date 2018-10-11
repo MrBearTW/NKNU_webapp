@@ -1,0 +1,4 @@
+打開 build.gradle(Module:app)
+在 dependencies{....}裡加入
+implementation 'com.mcxiaoke.volley:library:1.0.+'
+按下右上角的 Sync Now
