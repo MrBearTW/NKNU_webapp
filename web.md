@@ -469,3 +469,15 @@ OpenCart()
 # 改PHP.ini
 max_execution_time=120
 memory_limit=512M
+
+# 2018/10/12
+
+### 改category限制
+cart\admin\controller\catalog\category.php
+621行 limit
+category  
+
+### 可能會遇見的修改OpenCart修改  
+增加會員等級分類功能  
+修改會員點數或折扣方式  
+修改成捐款網站  
