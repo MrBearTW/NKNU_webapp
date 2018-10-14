@@ -69,7 +69,10 @@ https://www.taiwanjobs.gov.tw/Internet/index/CourseQuery_detail.aspx?History=His
 10/9 PHP+MySQL- WindowsServer-考試  
 10/10 國慶日  
 10/11 Android-連接資料庫 PHP+MySQL-  
-10/12 Android- 
+10/12  
+10/13 Android- 
+10/14 週日
+10/15  
 請假紀錄3hr
   
   
