@@ -44,3 +44,41 @@ C 24 255 255 255 0
 修正TEMP路徑  
 
 處理常式路徑設定
+
+
+## 2018/10/25
+系統管理事件
+
+VSS
+
+
+聯繫root
+
+轉寄站
+
+本機安全性原則
+
+使用可還原的加密來存放密碼(不應該開啟)
+
+密碼歷程 多久不能換密碼  
+
+本機安全性原則  
+
+查看同網段所有電腦`net view`
+
+## 設定排程
+先退到C:\
+`e:`切換到e槽
+`copy con web.bat`
+`net stop W3SVC`shift + F6
+
+服務檢查W3SVC
+
+工作排程器
+
+透過指令不能執行system32內的檔案
+cd c:Windows\System32
+copy shoutdown.exe c:\
+cd c:\
+copy con shoutdown.bat
+`shoutdown.exe /r /f /t 10 /d p:0:0`shift + F6
