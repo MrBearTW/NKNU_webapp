@@ -481,3 +481,15 @@ category
 增加會員等級分類功能  
 修改會員點數或折扣方式  
 修改成捐款網站  
+
+# 2018/10/16
+6大js框架
+ext
+dojo
+vue
+angular
+react
+node
+
+Enity framework
+
