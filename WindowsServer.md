@@ -82,3 +82,25 @@ copy shoutdown.exe c:\
 cd c:\
 copy con shoutdown.bat
 `shoutdown.exe /r /f /t 10 /d p:0:0`shift + F6
+
+# 2018/10/17
+### 防毒軟體
+clamAV(Linux)
+clamwin
+defender(微軟提供)
+
+Defender
+惡意
+
+### 印表機伺服器設定
+通訊協定有LINUX的話選LPR  
+
+中型網路64~200台  
+
+不能對網路開放3306port  
+phpex
+
+要開啟webICMP別人才ping的到你
+
+microsoft network monitor
+`tracert www.yahoo.com.tw`
