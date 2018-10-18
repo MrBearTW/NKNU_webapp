@@ -1,5 +1,8 @@
 <?php
 session_start();
+if(!isset($_SESSION["flags"]))
+ header("Location:index2.php");
+
 ?>
 <!DOCTYPE html>
 <head>
@@ -18,13 +21,13 @@ session_start();
 
 <div class="topnav">
 	
-	<a href="index.php">登出</a>
+	<a onclick="exit()">登出</a>
 	
 	<?php
 	    if(isset($_SESSION["userinputcode"]) && isset($_SESSION["flags"])){
 		  if($_SESSION["flags"]==1){
 	          echo "<a href='readmenulist.php'>觀看</a>";
-	          echo "<a href='readmenulist.php'>管理</a>";
+	          echo "<a href='setnewsabout.php'>管理</a>";
 	      }
 		  else
 			 echo "<a href='readmenulist.php'>觀看</a>";

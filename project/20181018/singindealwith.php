@@ -2,7 +2,7 @@
     
        
 	 header("Content-type:text/html;charset=UTF-8");
-     $db_link=mysql_connect("localhost","root","123456789");
+     $db_link=mysql_connect("localhost","root","");
      mysql_query("SET NAMES utf8");
      $seledb=mysql_select_db("coustmer");
 	 $sql_query="SELECT * FROM `coustmer` where `cu_id`='".$_POST["userinputcode"]."' AND `cu_password`='".$_POST["userinputpassword"]."'";

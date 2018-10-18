@@ -74,7 +74,8 @@ https://www.taiwanjobs.gov.tw/Internet/index/CourseQuery_detail.aspx?History=His
 10/14 週日
 10/15 WindowsServer-工作排程  
 10/16 PHP+MySQL-jQuery  
-10/17 WindowsServer-防毒
+10/17 WindowsServer-防毒  
+10/18 PHP+MySQL-金流  
 請假紀錄5hr
   
   

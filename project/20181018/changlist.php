@@ -48,9 +48,12 @@
 				   echo "<p align=center>".$menu[$i]."*".$number[$i]."份  價格:".$number[$i]*$price[$i]." NT$</p><hr/>";
 				   
 				 
-				 } 
+				 }
+                  echo "<Button>修改</Button>";				 
 				 echo "</td>";
+				
 				 echo "</tr>";
+				 
 			 }
         
              echo "</table>";
