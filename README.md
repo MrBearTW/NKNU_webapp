@@ -78,10 +78,13 @@ https://www.taiwanjobs.gov.tw/Internet/index/CourseQuery_detail.aspx?History=His
 10/18 PHP+MySQL-金流
 10/19
 10/20 Android-ch13，Navigation介面設計
+10/21 週日  
+10/22  
+10/23  
 請假紀錄5hr
   
 
-  
+
   
 螢幕共享程式github  
 https://github.com/EslaMx7/ScreenTask  

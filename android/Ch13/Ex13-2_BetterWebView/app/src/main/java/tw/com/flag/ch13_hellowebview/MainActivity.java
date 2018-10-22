@@ -12,10 +12,15 @@ public class MainActivity extends AppCompatActivity {
     WebView wv;
     ProgressBar pb;
 
+
+
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
+
+
 
         wv = (WebView) findViewById(R.id.wv);
         wv.setInitialScale(50);
@@ -23,6 +28,8 @@ public class MainActivity extends AppCompatActivity {
         wv.getSettings().setJavaScriptEnabled(true);	// 啟用 JavaScript
         wv.getSettings().setBuiltInZoomControls(true);	// 啟用縮放功能
         wv.invokeZoomPicker();	                        // 顯示縮放小工具
+        wv.getSettings().setUseWideViewPort(true);
+        wv.getSettings().setLoadWithOverviewMode(true);
         wv.setWebViewClient(new WebViewClient());		// 建立及使用 WebViewClient 物件
         wv.setWebChromeClient(new WebChromeClient() {
             public void onProgressChanged(WebView view, int progress) {
@@ -30,7 +37,10 @@ public class MainActivity extends AppCompatActivity {
                 pb.setVisibility(progress < 100? View.VISIBLE: View.GONE);  //依進度來讓進度條顯示或消失
             }
         });
-        wv.loadUrl("http://www.flag.com.tw");   // 連到旗標網站，可以不用加網頁的檔名了
+        //wv.loadUrl("http://www.flag.com.tw");   // 連到旗標網站，可以不用加網頁的檔名了
+        wv.loadUrl("http://max00370.byethost11.com");
+        //wv.loadUrl("http://yahoo.com.tw");
+        //wv.loadUrl("http://10.0.2.2");
     }
 
     @Override
