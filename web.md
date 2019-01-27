@@ -19,6 +19,10 @@ CodeIgniter
   
 laravel整理  
 https://oomusou.io/laravel/laravel-for-newbie/  
+
+新北市樹林國小 LARAVEL 工作坊  
+https://www.laravel-dojo.com/workshops/201507-ntpc  
+
   
 vue.js  
 
@@ -27,10 +31,10 @@ vue.js
 
 霍夫曼編碼樹
 
-網頁照片要放幾乘幾的大小？
-APP的ICON的大小事多少？
+網頁照片要放幾乘幾的大小？  
+APP的ICON的大小是多少？  
 
-24位元 JPG BMP 
+24位元 JPG BMP  
 32位元 PNG 
 SVG 點陣但可以仿向量
 APNG LINE貼圖
@@ -495,5 +499,4 @@ Enity framework
 
 # 2018/10/19
 juypter notebook
-shift+tab
-
+shift+tab  
