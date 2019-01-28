@@ -196,7 +196,7 @@ http://www.books.com.tw/products/0010720234
 https://www.books.com.tw/products/0010311883
 
 ### 新增一個網站
-1.改Xampp控制台Apache的config的`root的路徑`  
+1.改Xampp控制台Apache的httpd.conf的`root的路徑`  
 `DocumentRoot "C:/Users/APP User/Documents/github/nknuapp/web/php0925"`
 `<Directory "C:/Users/APP User/Documents/github/nknuapp/web/php0925">`
 2.改Dreamweaver設定  
