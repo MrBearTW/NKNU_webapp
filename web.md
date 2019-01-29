@@ -500,3 +500,12 @@ Enity framework
 # 2018/10/19
 juypter notebook
 shift+tab  
+
+
+
+# 2019/1/29
+Jquery範例說明
+http://jsgears.com/thread-63-1-1.html
+
+
+https://developer.mozilla.org/zh-TW/docs/Learn  

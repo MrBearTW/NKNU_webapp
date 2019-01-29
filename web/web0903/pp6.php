@@ -1,42 +1,42 @@
 <?php
 header("Content-type:text/html");
 
-$loc='C';
+$loc = 'C';
 
-switch($loc){
-	
+switch ($loc) {
+
 	case 'A':
-	
-	header("Location:http://tw.yahoo.com/");
-	
-	break;
-	
+
+		header("Location:http://tw.yahoo.com/");
+
+		break;
+
 	case 'B':
 
-	header("Location:http://www.google.com.tw");
-	
-	break;	
-	
+		header("Location:http://www.google.com.tw");
+
+		break;
+
 	case 'C':
-	
+
 		header("Location:http://www.youtube.com");
-	
-	break;
+
+		break;
 
 	case 'D':
 
-	header("Location:http://www.facebook.com.tw");
+		header("Location:http://www.facebook.com.tw");
 
-	break;	
-	
-	
+		break;
+
+
 	default:
-	
-	echo "哈樓哈！！";
-	
-	break;
 
-	}
+		echo "哈樓哈！！";
+
+		break;
+
+}
 
 
 
