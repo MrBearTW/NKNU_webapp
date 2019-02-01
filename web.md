@@ -509,3 +509,34 @@ http://jsgears.com/thread-63-1-1.html
 
 
 https://developer.mozilla.org/zh-TW/docs/Learn  
+
+
+# 2019/1/30
+從ES6開始的JavaScript學習生活
+https://eyesofkids.gitbooks.io/javascript-start-from-es6/content/
+
+
+https://repl.it/repls/SimilarUnimportantEmulator
+
+重新認識 JavaScript: Day 18 Callback Function 與 IIFE
+https://ithelp.ithome.com.tw/articles/10192739
+
+被單引號包住的內容，會完全照實的輸出
+被雙引號包住的內容，則會解析其中內容
+
+define()：PHP內建函式，用來定義常數  
+以define()定義的變數無法更改變數值  
+以define()定義的常數，使用時不用加$  
+
+
+
+
+2019 年成為 Web 開發人員的路線圖
+https://github.com/goodjack/developer-roadmap-chinese
+
+git教學  
+https://learngitbranching.js.org/
+
+Laravel 5 中文教程
+https://www.youtube.com/playlist?list=PLAYoruToK_vNbGXmCTPW8zGVuAz0jeBTY
+
