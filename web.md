@@ -531,12 +531,4 @@ define()：PHP內建函式，用來定義常數
 
 
 
-2019 年成為 Web 開發人員的路線圖
-https://github.com/goodjack/developer-roadmap-chinese
-
-git教學  
-https://learngitbranching.js.org/
-
-Laravel 5 中文教程
-https://www.youtube.com/playlist?list=PLAYoruToK_vNbGXmCTPW8zGVuAz0jeBTY
 
