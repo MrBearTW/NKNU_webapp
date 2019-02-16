@@ -529,6 +529,9 @@ define()：PHP內建函式，用來定義常數
 以define()定義的常數，使用時不用加$  
 
 
+# jQuery選取
 
-
-
+$('a'); // 取得頁面中所有的 <a> 標籤元素
+$('#el'); // 取得 id 為 el 的元素
+$('.item'); // 取得 class name 為 item 的所有元素
+$('#container a'); // 取得 id 為 container 之元素其內部的所有連結 <a>
